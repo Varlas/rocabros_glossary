@@ -1,16 +1,13 @@
 import { useState } from 'react'
+import NavBar from './components/NavBar/NavBar'
 import './App.css'
 
-function App(): JSX.Element {
+function App() {
 
   return (
     <>
     <div className="container">
-      <div className="navbar">
-        <span>Aventuras</span>
-        <span>Personajes</span>
-        <span>Localizaciones</span>
-      </div>
+      <NavBar />
       <div className="content">
         <div className="side-panel">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident rem distinctio? Earum numquam, facilis sequi accusantium fugit dolores debitis dolorum fugiat nesciunt quas doloremque dignissimos sit delectus ex sapiente, provident animi totam. Facere iste, commodi voluptate delectus magni est consectetur id culpa obcaecati similique. Quibusdam similique magni nam ab ipsum expedita suscipit vero quod, possimus placeat tempore eaque dolore animi cumque enim eos provident hic cum quasi ex nemo harum! Nihil vero qui distinctio eligendi dignissimos itaque deserunt? Iusto corporis recusandae quaerat harum. Mollitia, quos expedita, esse similique nam dignissimos repudiandae vitae recusandae tenetur aperiam harum earum, at cum eveniet? Tempora neque quod nesciunt. Aliquam ea, dolores doloribus aperiam maiores illo non vero natus! Ab, maiores et. Facilis modi perspiciatis autem beatae ducimus dolores nam! Impedit harum odit nostrum soluta praesentium velit mollitia. Omnis saepe placeat nulla nihil dolor delectus, architecto quaerat quos autem assumenda in odit harum corrupti odio dignissimos facilis, cum dolores inventore? Incidunt architecto dolorum voluptatum natus quia labore vitae sint impedit quidem explicabo minima officia facilis rerum eveniet harum hic vel repellendus ipsam reprehenderit magnam tempora, delectus autem porro molestiae! Exercitationem blanditiis repellat, fuga vero in vitae ex atque ut? Cupiditate minus at fugiat praesentium.

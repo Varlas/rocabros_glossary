@@ -1,7 +1,7 @@
 import React from 'react'
 import './NavBar.css'
 
-const NavBar = () => {
+function NavBar() {
   return (
     <div className="nav">
       <ul>
