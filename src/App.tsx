@@ -2,15 +2,35 @@ import { useState } from 'react'
 import SidePanel from './components/SidePanel/SidePanel'
 import NavBar from './components/NavBar/NavBar'
 import './App.css'
+import info from './info.json'
 
 function App() {
+  const [selectedId, setSelectedId] = useState(null);
+  const [showLateralMenu, setShowLateralMenu] = useState(false);
+  const [option, setOption] = useState('');
+  const handleMenuClick = (id) => {
+    setSelectedId(id);
+  };
+  const handleOptionClick = (option) => {
+    setOption(option);
+    setSelectedId(null);
+    setShowLateralMenu(true);
+  };
+
+  const data = info[option];
 
   return (
     <>
     <div className="container">
-      <NavBar />
+      <NavBar onOptionClick={handleOptionClick} />
       <div className="content">
-        <SidePanel/>
+        {
+          showLateralMenu ?
+          <SidePanel onMenuClick={handleMenuClick} list={data} />
+          :
+          null
+        }
+        
         {/* <div className="side-panel">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident rem distinctio? Earum numquam, facilis sequi accusantium fugit dolores debitis dolorum fugiat nesciunt quas doloremque dignissimos sit delectus ex sapiente, provident animi totam. Facere iste, commodi voluptate delectus magni est consectetur id culpa obcaecati similique. Quibusdam similique magni nam ab ipsum expedita suscipit vero quod, possimus placeat tempore eaque dolore animi cumque enim eos provident hic cum quasi ex nemo harum! Nihil vero qui distinctio eligendi dignissimos itaque deserunt? Iusto corporis recusandae quaerat harum. Mollitia, quos expedita, esse similique nam dignissimos repudiandae vitae recusandae tenetur aperiam harum earum, at cum eveniet? Tempora neque quod nesciunt. Aliquam ea, dolores doloribus aperiam maiores illo non vero natus! Ab, maiores et. Facilis modi perspiciatis autem beatae ducimus dolores nam! Impedit harum odit nostrum soluta praesentium velit mollitia. Omnis saepe placeat nulla nihil dolor delectus, architecto quaerat quos autem assumenda in odit harum corrupti odio dignissimos facilis, cum dolores inventore? Incidunt architecto dolorum voluptatum natus quia labore vitae sint impedit quidem explicabo minima officia facilis rerum eveniet harum hic vel repellendus ipsam reprehenderit magnam tempora, delectus autem porro molestiae! Exercitationem blanditiis repellat, fuga vero in vitae ex atque ut? Cupiditate minus at fugiat praesentium.
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit a debitis cupiditate dolore laudantium harum adipisci officiis neque ipsa dignissimos, architecto facere porro vero rerum asperiores nihil dolorem, nobis quas ducimus itaque dicta dolor veniam repellat. Consequuntur velit veniam nihil aut similique laudantium, pariatur voluptates voluptatem nulla vitae eveniet omnis architecto odio provident numquam dolor natus ratione, itaque inventore libero sit doloribus harum quibusdam neque. Itaque quasi atque ipsum reprehenderit delectus corporis minus veniam dicta temporibus ipsa cum nemo, eveniet rem, voluptas quaerat molestiae culpa repellat laborum corrupti? At adipisci, animi distinctio veritatis molestiae, debitis nulla atque saepe earum unde consequatur fuga natus corporis quaerat ex excepturi consequuntur voluptatum quis dicta accusamus tempore eveniet odit laboriosam. Quae, quasi ratione laudantium saepe quisquam explicabo repellat excepturi vitae, illo eveniet nulla suscipit voluptas cum quo accusamus ullam repudiandae dicta dolores, distinctio debitis autem ipsum porro mollitia voluptatum. Totam voluptates neque magnam voluptatibus, nesciunt assumenda. Esse quam sed aperiam vero neque deserunt culpa enim ipsum incidunt, voluptate, quibusdam, nulla quas tempora accusantium eaque veniam? Fugiat aliquam, voluptatum eligendi ullam maiores rerum tempora numquam voluptatibus asperiores non! Consequuntur perspiciatis odit, sunt doloribus voluptatem non numquam. Labore nisi aliquam maxime et nobis, quisquam incidunt voluptate.

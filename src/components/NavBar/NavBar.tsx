@@ -1,12 +1,12 @@
 import React from 'react'
 import './NavBar.css'
 
-function NavBar() {
+function NavBar({ onOptionClick }) {
   return (
     <div className="nav">
       <ul>
-        <li>AVENTURAS</li>
-        <li>PERSONAJES</li>
+        <li onClick={() => onOptionClick('AVENTURAS')}>AVENTURAS</li>
+        <li onClick={() => onOptionClick('PERSONAJES')}>PERSONAJES</li>
         <li>MAPAS</li>
       </ul>
     </div>
