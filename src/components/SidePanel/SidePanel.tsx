@@ -1,8 +1,9 @@
 import React from 'react'
+import './SidePanel.css'
 
 const SidePanel = ({ onMenuClick, list }) => {
   return (
-    <div className="lateral_menu">
+    <div className="side_panel">
  <ul>
          {list.map((aventura) => {
            const { title } = aventura;

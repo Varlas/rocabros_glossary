@@ -1,6 +1,17 @@
 body {
   margin: 0;
   padding: 0;
+  background-image: url('./assets/fondo_papel2.jpg');
+  color: #333;
+  line-height: 1.6;
+  font-size: 1.2rem;
+}
+
+h1, h2, h3 {
+  font-family: "Platypi", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color:#01230e
 }
 
 .container {
