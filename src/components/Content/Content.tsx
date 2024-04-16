@@ -11,7 +11,7 @@ const Content = ({ selectedId, list: listBulk }) => {
   return selectedId && contentToShow ? (
     <div className="main-content">{contentToShow}</div>
   ) : (
-    <div className="main-content">{contentToShow}</div>
+    <DefaultTemplate />
   );
 };
 
