@@ -33,12 +33,6 @@ h1, h2, h3 {
   border-right: 1px solid #ccc; /* Barra lateral */
 }
 
-.main-content {
-  flex: 2; /* Ocupa 2/3 del espacio */
-  overflow-y: auto; /* Añade barra lateral para el desbordamiento vertical */
-  padding: 10px;
-}
-
 .navbar {
   display: flex;
   justify-content: space-around;
