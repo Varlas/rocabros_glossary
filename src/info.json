@@ -1,48 +1,56 @@
 {
-    "AVENTURAS": [
-      {
-        "id": 1,
-        "title": "El viejo y el hijo",
-        "tags": ["girk", "Kar'Oyas", "Paris", "Roma", "gark", "puño"],
-        "description": "Un viejo y su hijo se encuentran en una encrucijada. ¿Qué camino tomarán?"
-      },
-      {
-        "id": 2,
-        "title": "Una noche para recordar",
-        "tags": [
-          "Cacotriz Tartamuda",
-          "Ruinas",
-          "Pierre Bouquet de Longchamp",
-          "elfos"
-        ],
-        "description": "Nuestros héroes se encuentran en una ciudad en ruinas. ¿Qué secretos esconderá?"
-      },
-      {
-        "id": 3,
-        "title": "En busca de la oveja perdida",
-        "tags": ["Gruntz", "mago oveja", "oveja", "granja", "pastor"],
-        "description": "Nuestros héroes se encuentran con una oveja que habla. ¿Qué aventuras les esperan?"
-      }
-    ],
-    "PERSONAJES": [
-      {
-        "id": 1,
-        "title": "Paris",
-        "tags": ["girk", "Kar'Oyas", "Paris", "Roma", "gark", "puño"],
-        "description": "Paris es un personaje muy importante en la historia de la humanidad."
-      },
-      {
-        "id": 2,
-        "title": "Lilly Cordiplata",
-        "tags": ["Bardo", "mujer", "Paris", "Roma", "gark", "puño"],
-        "description": "Lilly Cordiplata es una mujer muy valiente y decidida."
-      },
-      {
-        "id": 3,
-        "title": "Darius el Manonegra",
-        "tags": ["girk", "Kar'Oyas", "Paris", "Roma", "gark", "puño"],
-        "description": "Darius el Manonegra es un guerrero muy poderoso."
-      }
-    ]
-  }
-  
+  "AVENTURAS": [
+    {
+      "id": 1,
+      "title": "El viejo y el hijo",
+      "tags": ["girk", "Kar'Oyas", "Paris", "Roma", "gark", "puño"],
+      "description": "Un viejo y su hijo se encuentran en una encrucijada. ¿Qué camino tomarán?",
+      "content": ""
+    },
+    {
+      "id": 2,
+      "title": "Una noche para recordar",
+      "tags": [
+        "Cacotriz Tartamuda",
+        "Ruinas",
+        "Pierre Bouquet de Longchamp",
+        "elfos"
+      ],
+      "description": "Nuestros héroes se encuentran en una ciudad en ruinas. ¿Qué secretos esconderá?",
+      "content": ""
+    },
+    {
+      "id": 3,
+      "title": "En busca de la oveja perdida",
+      "tags": ["Gruntz", "mago oveja", "oveja", "granja", "pastor"],
+      "description": "Nuestros héroes se encuentran con una oveja que habla. ¿Qué aventuras les esperan?",
+      "content": ""
+    }
+  ],
+  "PERSONAJES": [
+    {
+      "id": 1,
+      "title": "Paris",
+      "race": "",
+      "tags": ["girk", "Kar'Oyas", "Paris", "Roma", "gark", "puño"],
+      "description": "Paris es un personaje muy importante en la historia de la humanidad.",
+      "content": ""
+    },
+    {
+      "id": 2,
+      "title": "Lilly Cordiplata",
+      "race": "",
+      "tags": ["Bardo", "mujer", "Paris", "Roma", "gark", "puño"],
+      "description": "Lilly Cordiplata es una mujer muy valiente y decidida.",
+      "content": ""
+    },
+    {
+      "id": 3,
+      "title": "Darius el Manonegra",
+      "race": "",
+      "tags": ["girk", "Kar'Oyas", "Paris", "Roma", "gark", "puño"],
+      "description": "Darius el Manonegra es un guerrero muy poderoso.",
+      "content": ""
+    }
+  ]
+}

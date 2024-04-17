@@ -1,7 +1,7 @@
-import React from 'react'
-import './NavBar.css'
+import { NavBarProps } from '../../types/types';
+import './NavBar.css';
 
-function NavBar({ onOptionClick }) {
+const NavBar: React.FC<NavBarProps> = ({ onOptionClick }) => {
   return (
     <div className="nav">
       <ul>
@@ -10,7 +10,7 @@ function NavBar({ onOptionClick }) {
         <li>MAPAS</li>
       </ul>
     </div>
-  )
-}
+  );
+};
 
-export default NavBar
+export default NavBar;
