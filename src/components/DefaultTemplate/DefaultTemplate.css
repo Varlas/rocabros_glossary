@@ -1,21 +1,21 @@
 .contaniner_default_content {
-    flex: 2; /* Ocupa 2/3 del espacio */
-    overflow-y: auto; /* Añade barra lateral para el desbordamiento vertical */
-    padding: 10px;
+  flex: 2; /* Ocupa 2/3 del espacio */
+  overflow-y: auto; /* Añade barra lateral para el desbordamiento vertical */
+  padding: 10px;
 }
 
 .heading {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-bottom: 20px;
-    text-align: center;
-  }
-  
-  .description {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    font-style: italic;
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-style: italic;
+}
