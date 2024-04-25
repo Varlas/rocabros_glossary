@@ -1,8 +1,13 @@
 import './Content.css';
 import DefaultTemplate from '../DefaultTemplate/DefaultTemplate';
-
-const Content = ({ selectedId, list: listBulk }) => {
-  const list = !!listBulk ? listBulk : null;
+import { Adventure, NPC } from '../../types/types';
+interface Props {
+  selectedId: number | null;
+  list: Adventure[] | NPC[] | null;
+}
+const Content = ({ selectedId, list: listBulk }: Props) => {
+  const existList = Boolean(listBulk);
+  const list = existList ? listBulk : null;
 
   const contentToShow =
     !!list && selectedId

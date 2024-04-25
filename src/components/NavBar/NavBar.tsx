@@ -1,7 +1,11 @@
 import { NavBarProps } from '../../types/types';
 import './NavBar.css';
 
-const NavBar: React.FC<NavBarProps> = ({ onOptionClick }) => {
+interface Props {
+  onOptionClick: (option: 'AVENTURAS' | 'PERSONAJES') => void;
+}
+
+const NavBar = ({ onOptionClick }: Props) => {
   return (
     <div className="nav">
       <ul>

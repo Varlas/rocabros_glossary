@@ -12,10 +12,10 @@ function App() {
   const [showLateralMenu, setShowLateralMenu] = useState<boolean>(false);
   const [option, setOption] = useState<Option>('AVENTURAS');
 
-  const handleMenuClick = (id: number) => {
+  const handleMenuClick = (id: number): void => {
     setSelectedId(id);
   };
-  const handleOptionClick = (option: Option) => {
+  const handleOptionClick = (option: Option): void => {
     setOption(option);
     setSelectedId(null);
     setShowLateralMenu(true);
