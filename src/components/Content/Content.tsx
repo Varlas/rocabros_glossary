@@ -1,5 +1,6 @@
 import './Content.css';
 import DefaultTemplate from '../DefaultTemplate/DefaultTemplate';
+import Item from '../Item/Item';
 import { Adventure, NPC } from '../../types/types';
 interface Props {
   selectedId: number | null;
@@ -11,10 +12,10 @@ const Content = ({ selectedId, list: listBulk }: Props) => {
 
   const contentToShow =
     !!list && selectedId
-      ? list.filter((item) => item.id === selectedId)[0].description
+      ? list.filter((item) => item.id === selectedId)[0]
       : null;
   return selectedId && contentToShow ? (
-    <div className="main-content">{contentToShow}</div>
+    <Item content={contentToShow} />
   ) : (
     <DefaultTemplate />
   );
