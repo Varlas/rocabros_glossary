@@ -1,5 +1,5 @@
 .main-content {
-    flex: 2; /* Ocupa 2/3 del espacio */
-    overflow-y: auto; /* Añade barra lateral para el desbordamiento vertical */
-    padding: 10px;
-  }
+  flex: 2; /* Ocupa 2/3 del espacio */
+  overflow-y: auto; /* Añade barra lateral para el desbordamiento vertical */
+  padding: 100px;
+}
