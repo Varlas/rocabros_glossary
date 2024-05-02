@@ -33,7 +33,11 @@ function App() {
             <SidePanel onMenuClick={handleMenuClick} list={contentToShow} />
           ) : null}
 
-          <Content selectedId={selectedId} list={contentToShow} />
+          <Content
+            selectedId={selectedId}
+            list={contentToShow}
+            option={option}
+          />
         </div>
       </div>
     </>

@@ -5,8 +5,9 @@ import { Adventure, NPC } from '../../types/types';
 interface Props {
   selectedId: number | null;
   list: Adventure[] | NPC[] | null;
+  option: string;
 }
-const Content = ({ selectedId, list: listBulk }: Props) => {
+const Content = ({ selectedId, list: listBulk, option }: Props) => {
   const existList = Boolean(listBulk);
   const list = existList ? listBulk : null;
 
@@ -15,7 +16,7 @@ const Content = ({ selectedId, list: listBulk }: Props) => {
       ? list.filter((item) => item.id === selectedId)[0]
       : null;
   return selectedId && contentToShow ? (
-    <Item content={contentToShow} />
+    <Item content={contentToShow} option={option} />
   ) : (
     <DefaultTemplate />
   );
