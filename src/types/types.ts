@@ -10,6 +10,8 @@ interface NPC {
   id: number;
   title: string;
   tags: Array<string>;
+  image: string;
+  tagline: string;
   race: string;
   description: string;
   content: string;

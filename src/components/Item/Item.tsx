@@ -18,7 +18,10 @@ const Item = ({ content: contentToShow, option }: Props) => {
       content={contentToShow}
     />
   ) : (
-    <Character />
+    <Character
+      contentInParagraphs={contentInParagraphs}
+      content={contentToShow}
+    />
   );
 };
 

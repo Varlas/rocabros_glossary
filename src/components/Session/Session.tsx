@@ -1,10 +1,10 @@
 import React from 'react';
-import { Adventure, NPC } from '../../types/types';
+import { Adventure } from '../../types/types';
 import formatStringToJSX from '../../utils/getStringToJSXcontent';
 
 interface Props {
   contentInParagraphs: Array<string>;
-  content: Adventure | NPC;
+  content: Adventure;
 }
 
 const Session = ({ contentInParagraphs, content }: Props) => {

@@ -54,10 +54,21 @@
     {
       "id": 3,
       "title": "Darius el Manonegra",
-      "race": "",
-      "tags": ["girk", "Kar'Oyas", "Paris", "Roma", "gark", "puño"],
-      "description": "Darius el Manonegra es un guerrero muy poderoso.",
-      "content": ""
+      "race": "Semiorco",
+      "image": "archer.png",
+      "tags": [
+        "john",
+        "lobo",
+        "lobete",
+        "arquero",
+        "merino",
+        "pequeño",
+        "john",
+        "semiorco"
+      ],
+      "description": "Darius el Manonegra es un semiorco de gran estatura y musculatura imponente. Su piel tiene tonos oscuros y rugosos, típicos de su herencia semiorca. Posee una mirada intensa y penetrante, con ojos que reflejan determinación y experiencia en combate. Tiene una maraña de pelo negro en forma de rastas atadas en coleta. Su cara está llena de símbolos rúnicos. La mano que sostiene el arco está completamente negra, como si estuviese quemada. Circulan muchas anécdotas de cómo se lo hizo pero ninguna es real. Siempre le acampaña su familia, Pequeño John, un lobo terrible con un parche en el ojo.",
+      "tagline": "Guerrero de honor, amigo leal y cazador de peligros, forjado en las sombras de la infroscuridad.",
+      "content": "Darius el Manonegra es un antiguo compañero de aventuras de Merino de Rocamar con el cual viajó hace años por la infroscuridad. En algún momento de la aventura, tras un combate, ambos se separaron y no volvieron a saber del otro. Merino consiguió escapar y volver a la superficie, pero Darius cayó preso de los Drow que mataron a su compañera lobo Big Moma e hirieron a su cachorro, que perdió el ojo. Tras permanecer preso durante meses, consiguieron huir y este lobezno se acabó convirtiendo en Pequeño John, su terrible compañero animal.//El grupo al completo encontró a Darius en la taberna de los héroes de Runheim, donde Darius habló en nombre de Merino para que pudiera participar en las pruebas en busca de la receta de salchicha perfecta.//Darius les contó que había sido contratado por unos elfos para seguir la pista de extraños sucesos relacionados con el Culto del Dragón en la zona. Resultó que los elfos hacían bien en preocuparse, pues estos sucesos terminaron desembocando en el ataque de Ashardalon. Darius llegó a tiempo de ayudar a nuestros héroes y fue el responsable de lanzar la flecha que de manera crítica y certera liberó a Merino de las zarpas del dragón.//En el concilio de la Torre Brumosa se dirigió al frío norte, su lugar de origen, para encontrar más información sobre Ashardalon."
     }
   ]
 }
