@@ -1,0 +1,17 @@
+.character-item {
+  flex: 2; /* Ocupa 2/3 del espacio */
+  overflow-y: auto; /* Añade barra lateral para el desbordamiento vertical */
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+}
+
+.character-text {
+  display: flex;
+  flex-direction: row;
+  margin-right: 20px;
+}
+
+.character-content {
+  margin-top: 50px;
+}

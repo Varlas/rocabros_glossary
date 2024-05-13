@@ -38,18 +38,38 @@
     {
       "id": 1,
       "title": "Paris",
-      "race": "",
-      "tags": ["girk", "Kar'Oyas", "Paris", "Roma", "gark", "puño"],
-      "description": "Paris es un personaje muy importante en la historia de la humanidad.",
-      "content": ""
+      "race": "Humano",
+      "tags": [
+        "girk",
+        "Kar'Oyas",
+        "Paris",
+        "Roma",
+        "gark",
+        "puño",
+        "representante",
+        "guarda"
+      ],
+      "description": "Paris es un hombre de estatura media, con una complexión atlética que refleja su pasado como guardia y su actual posición como jefe del Gremio de Aventureros. Tiene cabello rubio y bien cuidado, así como una barba recortada que le da un aspecto de madurez y autoridad. Sus ojos son penetrantes y expresan determinación y confianza en sí mismo. Suele vestir ropajes elegantes y caros, regalados por nuestros héroes como símbolo de su estatus y amistad.",
+      "tagline": "Guardián de la aldea de Kar'Oyas, representante de los aventureros y amigo de nuestros héroes.",
+      "content": "Paris, antes de ser el guarda personal de la Taberna La Trucha Mojada, era un antiguo guardia de Kar’Oyas. Desde sus primeros encuentros con nuestros héroes, se forjó una amistad verdadera y profunda. A lo largo del tiempo, su destreza y lealtad le permitieron ascender en su carrera, y finalmente prosperó hasta convertirse en el Jefe del Gremio de Aventureros de Kar’Oyas. Como un guiño a su ascenso y a su amistad, nuestros héroes le regalaron ropajes caros, asegurándose de que pudiera representar su nueva posición con la dignidad y la elegancia que merecía. Desde entonces, Paris lleva con orgullo estos ropajes, siempre dando una buena imagen."
     },
     {
       "id": 2,
       "title": "Lilly Cordiplata",
-      "race": "",
-      "tags": ["Bardo", "mujer", "Paris", "Roma", "gark", "puño"],
-      "description": "Lilly Cordiplata es una mujer muy valiente y decidida.",
-      "content": ""
+      "race": "Humano",
+      "tags": [
+        "bardo",
+        "mercenaria",
+        "mercenario",
+        "thorgrim",
+        "girk",
+        "lily",
+        "lili",
+        "mujer"
+      ],
+      "description": "Lilly Cordiplata tiene cabello largo y oscuro que enmarca un rostro de rasgos marcados y expresión decidida. Sus ojos, de un color intenso y penetrante, revelan una astucia y determinación que coinciden con su reputación como mercenaria experimentada. Su figura es ágil y atlética, reflejando su habilidad en el combate y en las artes mágicas. Suele vestir una armadura ligera y elegante, adornada con detalles que reflejan su estilo de vida aventurero.",
+      "tagline": "Bardo, mercenaria y amiga de nuestros héroes, Lilly Cordiplata es una mujer de muchas habilidades y secretos.",
+      "content": "Lilly Cordiplata es una mercenaria bardo humana de las tierras del norte. Nuestros héroes la conocieron por primera vez en Kar’Oyas durante la ceremonia de transición a la adultez de Girk, el último miembro del clan Gark. Fue contratada para unirse al grupo que planeaba exterminar a los Gark, pero cuando Thorgrim, el hombre que la contrató, cayó en combate, ella abandonó la lucha, se volvió invisible y curó las heridas que había infligido a Merino de Rocamar. // Wipp la persiguió y anuló su invisibilidad, pero cuando se encontraron cara a cara, decidió dejar que huyera para ayudar a sus compañeros. // La volvieron a encontrar en Runheim durante su búsqueda de la receta perfecta para las salchichas. Cuando nuestros héroes fueron cuestionados sobre sus méritos para estar en el Salón de los Héroes, Balassar habló en nombre de Irn, Darius Manonegra en nombre de Merino, todos los presentes en el bar hablaron en nombre de Niels y Lilly habló en nombre de Wipp para su sorpresa y salvación. Desapareció más tarde durante la prueba en la que Wipp debía atrapar un cerdo engrasado. // Cuando Ashardalon atacó por primera vez al grupo y casi se lleva a Merino, Lilly fue una de las que acudió a ayudar a nuestros héroes, atacando a Ashardalon y curando a Wipp como acción adicional. // Participó en el Consejo de la Torre Brumosa donde se decidieron los pasos para tratar de acabar con la amenaza que representa la Calamidad Roja."
     },
     {
       "id": 3,

@@ -1,4 +1,3 @@
-import { NavBarProps } from '../../types/types';
 import './NavBar.css';
 
 interface Props {
@@ -11,7 +10,6 @@ const NavBar = ({ onOptionClick }: Props) => {
       <ul>
         <li onClick={() => onOptionClick('AVENTURAS')}>AVENTURAS</li>
         <li onClick={() => onOptionClick('PERSONAJES')}>PERSONAJES</li>
-        <li>MAPAS</li>
       </ul>
     </div>
   );
