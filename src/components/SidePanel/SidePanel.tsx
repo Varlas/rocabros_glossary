@@ -24,7 +24,7 @@ const SidePanel = ({ onMenuClick, list }: Props) => {
   return (
     <div className="side_panel">
       {/* SEARCH BAR */}
-      <div>
+      <div className="search_bar">
         <input
           type="text"
           placeholder="Search..."
@@ -33,7 +33,7 @@ const SidePanel = ({ onMenuClick, list }: Props) => {
         />
       </div>
       {/* --------- */}
-      <ul>
+      <ul className="side_panel_list">
         {filteredList.map((aventura) => {
           const { title } = aventura;
           return (
