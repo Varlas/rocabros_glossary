@@ -1,15 +1,40 @@
 import './SidePanel.css';
 import { Adventure, NPC } from '../../types/types';
+import React, { useState } from 'react';
 interface Props {
   onMenuClick: (id: number) => void;
   list: Adventure[] | NPC[];
 }
 
 const SidePanel = ({ onMenuClick, list }: Props) => {
+  const [searchTerm, setSearchTerm] = useState('');
+
+  const handleSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    setSearchTerm(event.target.value);
+  };
+  const filteredList =
+    list?.filter(
+      (item) =>
+        item.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        item.tags.some((tag) =>
+          tag.toLowerCase().includes(searchTerm.toLowerCase()),
+        ),
+    ) || list;
+
   return (
     <div className="side_panel">
+      {/* SEARCH BAR */}
+      <div>
+        <input
+          type="text"
+          placeholder="Search..."
+          value={searchTerm}
+          onChange={handleSearchChange}
+        />
+      </div>
+      {/* --------- */}
       <ul>
-        {list.map((aventura) => {
+        {filteredList.map((aventura) => {
           const { title } = aventura;
           return (
             <li
