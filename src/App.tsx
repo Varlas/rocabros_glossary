@@ -14,6 +14,9 @@ function App() {
 
   const handleMenuClick = (id: number): void => {
     setSelectedId(id);
+    if (window.innerWidth <= 768) {
+      setShowLateralMenu(false);
+    }
   };
   const handleOptionClick = (option: Option): void => {
     setOption(option);

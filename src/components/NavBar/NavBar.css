@@ -24,5 +24,10 @@
     position: fixed;
     bottom: 0;
     width: 100%;
+    margin-right: 10px;
+  }
+
+  .nav ul li {
+    margin-right: 20px;
   }
 }

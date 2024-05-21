@@ -15,3 +15,9 @@
 .character-content {
   margin-top: 50px;
 }
+
+@media (max-width: 768px) {
+  .character-item {
+    padding: 20px;
+  }
+}

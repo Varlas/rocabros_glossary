@@ -3,3 +3,9 @@
   overflow-y: auto; /* Añade barra lateral para el desbordamiento vertical */
   padding: 100px;
 }
+
+@media (max-width: 768px) {
+  .main-content {
+    padding: 20px;
+  }
+}
