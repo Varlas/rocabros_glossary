@@ -1,7 +1,8 @@
 import './Content.css';
 import DefaultTemplate from '../DefaultTemplate/DefaultTemplate';
-import Item from '../Item/Item';
 import { Adventure, NPC } from '../../types/types';
+import Session from '../Session/Session';
+import Character from '../Character/Character';
 interface Props {
   selectedId: number | null;
   list: Adventure[] | NPC[] | null;
@@ -27,7 +28,11 @@ const Content = ({ selectedId, list: listBulk, option }: Props) => {
 
   // Si existe un id seleccionado y el contenido a mostrar es verdadero, se muestra el contenido
   return selectedId && contentToShow ? (
-    <Item content={contentToShow} option={option} />
+    option === 'AVENTURAS' ? (
+      <Session content={contentToShow as Adventure} />
+    ) : (
+      <Character content={contentToShow as NPC} />
+    )
   ) : (
     <DefaultTemplate />
   );

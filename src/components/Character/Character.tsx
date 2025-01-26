@@ -6,8 +6,7 @@ interface Props {
   content: NPC;
 }
 const Character = ({ content: contentToShow }: Props) => {
-  const { content, image, race, tagline, tags, title, description } =
-    contentToShow;
+  const { content, race, tagline, title, description } = contentToShow;
 
   return (
     <div className="character-item">

@@ -103,31 +103,6 @@
     },
     {
       "id": 6,
-      "title": "El nuevo paladín de Thorm",
-      "tags": ["Niels", "juicio", "paladines", "paladín", "pruebas", "sombra"],
-      "description": "Enfrentando pruebas divinas y los fantasmas de su pasado, Niels supera los desafíos de Thorm para convertirse en un paladín, mientras la sombra de la culpa promete acompañarlo en su camino.",
-      "content": [
-        "Después de esta última aventura nuestro héroes llegaron a Tormleif a tiempo para el nombramiento de Niels como paladín de Thorm. A su llegada todos salieron a recibirle y a dar la bienvenida a los 5. Alli les estaba esperando ______ quien les dijo que ya le estaban esperando en el templo el lider de los paladines.",
-
-        "Allí ______ lo presentó como nuevo aspirante. El líder le dijo que para ser bienvenido como paladín de Thorm debía superar unas pruebas para mostrar su valentía y su resolución. Tradicionalmente, Thorm en sus gestas siempre estuvo acompañado de su dragón dorado, Tyr y ____ De modo que Niels se le permitía llevar consigo un máximo de 3 acompañantes. Nada más oírlo Merino le dijo que a él no le importaba sacrificarse por el grupo y quedarse amenizando la taberna mientras iba componiendo los acordes que compondrían esta canción.",
-
-        "Una vez salieron del templo. Niels les pidió un momento a sus compañeros y se acercó al cementerio. Irn, Wipp, Bastian y Merino vieron desde la puerta cómo el gigantesco paladín limpiaba con delicadeza dos lápidas y dejaba sobre ellas unas flores que había ido recogiendo a lo largo del camino. Se preocupó de ordenarlas, como si las que estuvieran descansando tuvieran preferencia por una flor u otra. Tras unos minutos, regresó a sus compañeros y les dijo “Aquí descansan mi mujer y mi hija. Me fueron arrebatadas y son el motivo por el cual me dedico a la protección de los débiles. Estoy deseándo que llegue el momento de reunirme con ellas pero hasta entonces dedicaré mi vida a hacer de este un lugar mejor”.",
-
-        "El día de la prueba llegó y nuestros héroes ascendieron por los caminos nevados hacia la ermita de Thorm.",
-
-        "Su segunda prueba fue la de ordenar unas estatuas en el orden correcto de la vida y logros de Thorm. El aspirante debe reconocer las grandes obras y la vida de Throm, pues su objetivo en la vida será replicarlos para proteger a los débiles.",
-
-        "La tercera prueba fue la más dura, pues Niels tuvo que enfrentarse al peor momento de su pasado para superar el desafío. Frente a nuestros héroes al final de la cueva había un pequeño poblado humano con casas de madera y techos de paja. Era de noche pero el pueblo estaba alumbrado por una infinidad de hogueras e incendios. Gritos y desasosiego se oían por todos lados y las casas caían presa de las llamas. A Irn y Wipp aquello les extrañó y no entendían de donde venían las voces pues ante ellos solo veían cabañas ardiendo, sin rastro de ningún humano alrededor. Pero para Niels el recuerdo era vivido y palpable. Dieron dos pasos y lo que parecía la sombra tridimensional de una mujer huyendo paso frente a ellos mientras gritaba y desapareció. Luego un hombre montado a caballo que parecía perseguir a alguien mientras reía.",
-
-        "Niels se giró a sus compañeros. Esta era su hogar natal, su aldea que fue arrasada e incendidada por unos bandidos al mando del jefe _______. En esa batalla fue en la que murieron su mujer y su hija y ahora debía de actuar. Corrió hacia la que debía de ser su casa cuando cuatro sombras de bandidos emergieron hacia ellos riéndose y plantándoles cara. Lucharon con bravío y coraje mientras las sombras caían y aparecían nuevas. Debieron de caer unas 5 cuando el mismísimo jefe de los bandidos volvió a aparecer como una sombra, pero a diferencia de los otros este reconoció a Niels como si supiera que estaba dentro de una prueba, como si supiera lo que había pasado en ese lugar hace tantos años, como si lo conociera.",
-
-        "En combate singular Niels se enfrentó a él con valentía y tras varios golpes, acabó con el bandido pero este en lugar de desaparecer como el resto se volvió polvo y como si fuera una corriente de aire se metió por la boca, los ojos, los oidos de Niels y desapareció y con él la ilusión del poblado.",
-
-        "Niels había superado la prueba pero había descubierto que los fantasmas de su pasado tarde o temprano volverían a él. Tall y como Thorm había tenido que vivir sabiendo _____ Niels vivió sabiendo que la sombra de su culpa seguirá rondándole todos los días."
-      ]
-    },
-    {
-      "id": 7,
       "title": "Emboscada goblin. Misión Rescate",
       "tags": [
         "cacotriz",
@@ -155,6 +130,57 @@
         "Se acercaron y comprobaron que se trataba de un caballo blanco y un pony castaño. Sus alforjas habían sido desvalijadas y por el estado debían de haber muerto en algún momento de la noche pasada. Cuando se acercaron a mirar dos flechas iguales a las que estaban clavadas en los animales pasaron silbando por sus cabezas y una se clavó en el escudo de Irn.",
 
         "Una emboscada de goblins!! Desenvainaron sus armas y pelearon fieramente contra los atacantes. Fue una batalla dura pues los goblins estaban preparados y habían dejado varias trampas preparadas por el camino. Se notaba que esta era una zona donde solían hacer emboscadas de estas. Al final ganaron y dejaron con vida a uno de los goblins que les dijo que la noche anterior habían tomado como prisioneros a un humano y a dos medianos y que estaban a merced de thrath, destructor dde imperios."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Thrath, el Destructor de Imperios: El Asedio a la Cueva Goblin",
+      "tags": [
+        "cacotriz",
+        "tartamuda",
+        "goblin",
+        "goblins",
+        "Gillian",
+        "Bastián",
+        "destructor"
+      ],
+      "description": "Un plan brillante, un combate feroz y una victoria inolvidable: los héroes desafían a Thrath el Destructor y su ejército de goblins.",
+      "content": [
+        "Nuestros héroes usaron al goblin para que les guiara hasta su guarida, pero el aztuto goblin intentó llevarlos por todos los caminos de trampas que conocía. Cansados de sus engaños, Niels acabó con él rápidamente y decidieron seguir los rastros de los prisioneros por su cuenta.",
+        "Cuando llegaron a un arrochuelo, vieron a un par de goblins haciendo guardia en la entrada de una cueva. Usando el cuerpo del goblin muerto como distracción, Irn intentó imitar su voz mientras Wipp y Merino acabaron con ellos a distancia. Una vez se aseguraron de que no había más goblins en la entrada, se alegraron de descubrir amordazado en la hoguera al bueno de Bastian. Este les explicó que Gillian y el compañero de Niels seguían presos y que dentro había un enorme Osgo que se hacía llamar Thrath el Destructor de Imperios. Nuestros héroes decidieron separarse. Niels y Wipp decidieron sorprenderles por detrás, pues la elfa había descubierto una gruta escondida en la cueva. Mientras Irn, Bastian y Merino entraban por la puerta principal.",
+        "Cuando entraron, fueron sorprendidos por varios lobos atados a un poste que nada más verlos comenzaron a aullar y a intentar liberarse. Nuestros héroes les silenciaron los más deprisa que pudieron, pero no lo suficiente. Al fondo de la cueva comenzaron a escuchar sonido de pasos y voces goblins acercándose.",
+        "Por suerte, en la estancia de los lobos había una gruta por la que pudieron deslizarse y les llevó a una sala donde un enorme Osgo y su lobo terrible estaban gritando órdenes a un pobre grupo de goblins para que fueran a por los instrusos.",
+        "Fue en este momento, en el que Merino decidió que un poco más de caos no vendría mal. Pulsando una serie de acordes en su laud, creó una ilusión de voces para que pareciese que los goblins insultaban al Osgo. Los petrificados goblins intentaron disculaparse y huír mientras esas 'palabras' parecían seguir saliendo de su boca.",
+        "Sin miramientos, el Osgo acabó con los dos goblins. Pero cuando las voces seguían saliendo de los cuerpos inertes, la cordura del Osgo se tambaleó y comenzó a ver enemigos fantasmales, mientras al otro lado de la cueva Merino reía complacido de lo bien que estaba saliendo su plan.",
+        "Y en el momento en el que el Osgo se lanzó a pelearse contra fantasmas inexistentes, nuestros héroes aprovecharon para luchar contra él y su lobos. Fue una batalla muy dura, pues varios goblins se unieron a presentar batalla. Todo se complicó cuando el Osgo dejó inconsciente a Irn, pero en ese momento aparecieron heroicamente Niels y Wipp para salvar la situación.",
+
+        "El combate fue encarnizado y uno de los más complejos a los que nunca se habían enfrentado. Pero con estrategia y astucia acabaron con todos los goblins y Thrath el Destructor acabó muerto bajo el hacha de Niels.",
+        "Escucharon sonido de refuerzos acercándose, pero ahora eran nuestros héroes los que partían con ventaja. Prepararon una emboscada y acabaron con los goblins que venían a por ellos. Una vez todo estaba en calma, liberaron a Gillian y al compañero de Niels y volvieron a la Cacotriz Tartamuda para celebrar su victoria."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "El nuevo paladín de Thorm",
+      "tags": ["Niels", "juicio", "paladines", "paladín", "pruebas", "sombra"],
+      "description": "Enfrentando pruebas divinas y los fantasmas de su pasado, Niels supera los desafíos de Thorm para convertirse en un paladín, mientras la sombra de la culpa promete acompañarlo en su camino.",
+      "content": [
+        "Después de esta última aventura nuestro héroes llegaron a Tormleif a tiempo para el nombramiento de Niels como paladín de Thorm. A su llegada todos salieron a recibirle y a dar la bienvenida a los 5. Alli les estaba esperando ______ quien les dijo que ya le estaban esperando en el templo el lider de los paladines.",
+
+        "Allí ______ lo presentó como nuevo aspirante. El líder le dijo que para ser bienvenido como paladín de Thorm debía superar unas pruebas para mostrar su valentía y su resolución. Tradicionalmente, Thorm en sus gestas siempre estuvo acompañado de su dragón dorado, Tyr y ____ De modo que Niels se le permitía llevar consigo un máximo de 3 acompañantes. Nada más oírlo Merino le dijo que a él no le importaba sacrificarse por el grupo y quedarse amenizando la taberna mientras iba componiendo los acordes que compondrían esta canción.",
+
+        "Una vez salieron del templo. Niels les pidió un momento a sus compañeros y se acercó al cementerio. Irn, Wipp, Bastian y Merino vieron desde la puerta cómo el gigantesco paladín limpiaba con delicadeza dos lápidas y dejaba sobre ellas unas flores que había ido recogiendo a lo largo del camino. Se preocupó de ordenarlas, como si las que estuvieran descansando tuvieran preferencia por una flor u otra. Tras unos minutos, regresó a sus compañeros y les dijo “Aquí descansan mi mujer y mi hija. Me fueron arrebatadas y son el motivo por el cual me dedico a la protección de los débiles. Estoy deseándo que llegue el momento de reunirme con ellas pero hasta entonces dedicaré mi vida a hacer de este un lugar mejor”.",
+
+        "El día de la prueba llegó y nuestros héroes ascendieron por los caminos nevados hacia la ermita de Thorm.",
+
+        "Su segunda prueba fue la de ordenar unas estatuas en el orden correcto de la vida y logros de Thorm. El aspirante debe reconocer las grandes obras y la vida de Throm, pues su objetivo en la vida será replicarlos para proteger a los débiles.",
+
+        "La tercera prueba fue la más dura, pues Niels tuvo que enfrentarse al peor momento de su pasado para superar el desafío. Frente a nuestros héroes al final de la cueva había un pequeño poblado humano con casas de madera y techos de paja. Era de noche pero el pueblo estaba alumbrado por una infinidad de hogueras e incendios. Gritos y desasosiego se oían por todos lados y las casas caían presa de las llamas. A Irn y Wipp aquello les extrañó y no entendían de donde venían las voces pues ante ellos solo veían cabañas ardiendo, sin rastro de ningún humano alrededor. Pero para Niels el recuerdo era vivido y palpable. Dieron dos pasos y lo que parecía la sombra tridimensional de una mujer huyendo paso frente a ellos mientras gritaba y desapareció. Luego un hombre montado a caballo que parecía perseguir a alguien mientras reía.",
+
+        "Niels se giró a sus compañeros. Esta era su hogar natal, su aldea que fue arrasada e incendidada por unos bandidos al mando del jefe _______. En esa batalla fue en la que murieron su mujer y su hija y ahora debía de actuar. Corrió hacia la que debía de ser su casa cuando cuatro sombras de bandidos emergieron hacia ellos riéndose y plantándoles cara. Lucharon con bravío y coraje mientras las sombras caían y aparecían nuevas. Debieron de caer unas 5 cuando el mismísimo jefe de los bandidos volvió a aparecer como una sombra, pero a diferencia de los otros este reconoció a Niels como si supiera que estaba dentro de una prueba, como si supiera lo que había pasado en ese lugar hace tantos años, como si lo conociera.",
+
+        "En combate singular Niels se enfrentó a él con valentía y tras varios golpes, acabó con el bandido pero este en lugar de desaparecer como el resto se volvió polvo y como si fuera una corriente de aire se metió por la boca, los ojos, los oidos de Niels y desapareció y con él la ilusión del poblado.",
+
+        "Niels había superado la prueba pero había descubierto que los fantasmas de su pasado tarde o temprano volverían a él. Tall y como Thorm había tenido que vivir sabiendo _____ Niels vivió sabiendo que la sombra de su culpa seguirá rondándole todos los días."
       ]
     }
   ],
