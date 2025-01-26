@@ -1,27 +1,21 @@
-import React from 'react'; // Add the missing import statement for React
 import { Adventure, NPC } from '../../types/types';
 import Session from '../Session/Session';
 import Character from '../Character/Character';
 
-interface Props {
-  content: Adventure | NPC;
-  option: string;
-}
+type Props =
+  | { option: 'AVENTURAS'; content: Adventure }
+  | { option: 'PERSONAJES'; content: NPC };
 
-const Item = ({ content: contentToShow, option }: Props) => {
-  const { content } = contentToShow;
-  const contentInParagraphs = content.split('//');
+const Item = ({ content, option }: Props) => {
+  /**
+    > content es el objeto de la aventura o personaje seleccionado
+    > option es el tipo de contenido que se está mostrando (AVENTURAS o PERSONAJES)
+   */
 
   return option === 'AVENTURAS' ? (
-    <Session
-      contentInParagraphs={contentInParagraphs}
-      content={contentToShow}
-    />
+    <Session content={content} />
   ) : (
-    <Character
-      contentInParagraphs={contentInParagraphs}
-      content={contentToShow}
-    />
+    <Character content={content} />
   );
 };
 

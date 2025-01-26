@@ -12,7 +12,8 @@ const DefaultTemplate = () => {
       </div>
       <div className="description">
         <h2>
-          Acaricié las nubes en la cordillera Sangrante, crucé los abismos de la
+          Acaricié las nubes en la cordillera Sangrante, sobreviví a la
+          destrucción de Rocamar por un dragón rojo, crucé los abismos de la
           infroscuridad, navegué la Costa de los huesos y ahora junto al
           dracónido Irnithin del Clan Xaxanthas, Niels el héroe del pueblo y la
           misteriosa Wipp os narraré mis últimas aventuras.
