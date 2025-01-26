@@ -3,18 +3,18 @@ interface Adventure {
   title: string;
   tags: Array<string>;
   description: string;
-  content: string;
+  content: Array<string>;
 }
 
 interface NPC {
   id: number;
   title: string;
   tags: Array<string>;
-  image: string;
-  tagline: string;
+  image?: string;
+  tagline?: string;
   race: string;
   description: string;
-  content: string;
+  content: Array<string>;
 }
 
 interface Info {

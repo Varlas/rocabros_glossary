@@ -1,12 +1,11 @@
-import { NPC, Adventure } from '../../types/types';
+import { NPC } from '../../types/types';
 import './Character.css';
-import formatStringToJSX from '../../utils/getStringToJSXcontent';
+import printContent from '../../utils/printContent';
 
 interface Props {
-  contentInParagraphs: Array<string>;
-  content: NPC | Adventure;
+  content: NPC;
 }
-const Character = ({ contentInParagraphs, content: contentToShow }: Props) => {
+const Character = ({ content: contentToShow }: Props) => {
   const { content, image, race, tagline, tags, title, description } =
     contentToShow;
 
@@ -36,7 +35,7 @@ const Character = ({ contentInParagraphs, content: contentToShow }: Props) => {
           </div>
         </div>
       </div>
-      <div className="character-content">{content}</div>
+      <div className="character-content">{printContent(content)}</div>
     </div>
   );
 };
