@@ -62,14 +62,48 @@
     {
       "id": 4,
       "title": "Una noche para recordar. Lamento de Banshee",
-      "tags": ["Calamidad Roja", "Consejo de la Torre Brumosa", "Ashardalon"],
-      "description": "Nuestros héroes se enfrentan a una amenaza ancestral que pone en peligro el mundo entero. ¿Podrán detener a la Calamidad Roja y salvar a los reinos de la destrucción?",
+      "tags": [
+        "Banshee",
+        "Ruinas",
+        "Elfos",
+        "Pierre Bouquet de Longchamp",
+        "Fantasma",
+        "maldición",
+        "castillo",
+        "esqueletos",
+        "pájaros",
+        "tapices",
+        "reyes",
+        "princesa",
+        "maldición"
+      ],
+      "description": "Nuestros héroes rompen la maldición de un antiguo castillo élfico, liberando el alma de una princesa atrapada en el tiempo.",
       "content": [
-        "Después de una noche de fiesta en la Cacotriz Tartamuda, nuestros héroes se encontraron con un mensajero que les entregó una carta con el sello del Consejo de la Torre Brumosa. En ella, se les convocaba a una reunión urgente en la torre, donde se les informó de la existencia de una amenaza ancestral que ponía en peligro el mundo entero: la Calamidad Roja.",
-        "La Calamidad Roja era un dragón rojo antiguo y poderoso que había sido despertado de su letargo por un grupo de cultistas que adoraban a Tiamat, la diosa de los dragones. Ashardalon, como se hacía llamar, había comenzado a sembrar el caos y la destrucción en los reinos, y el Consejo de la Torre Brumosa necesitaba la ayuda de nuestros héroes para detenerlo.",
-        "Nuestros héroes aceptaron la misión y se embarcaron en una aventura que los llevó a través de bosques oscuros, montañas nevadas y desiertos ardientes. En el camino, se encontraron con aliados inesperados, como el mago oveja y los enanos cazatesoros, que se unieron a ellos en su lucha contra la Calamidad Roja.",
-        "Finalmente, llegaron al antiguo templo donde se encontraba Ashardalon y se enfrentaron a él en una batalla épica que duró horas. Con valentía y determinación, nuestros héroes lograron derrotar al dragón y salvar a los reinos de la destrucción.",
-        "La Calamidad Roja fue vencida, pero la amenaza de los cultistas de Tiamat seguía latente. Nuestros héroes sabían que su lucha no había terminado y que debían estar preparados para enfrentar cualquier desafío que el futuro les deparara."
+        "Bajo el encargo del noble humano Pierre Bouquet de Longchamp, nuestros valientes aventureros —Merino de Rocamar, el mediano bardo; Irnithin del Clan Xaxanthas, dracónido azul y clérigo de la Tormenta; Niels, paladín humano de Thorm; y Wipp, la alta elfa pícara arcana— se adentraron en las ruinas de un antiguo castillo élfico envuelto en leyendas de tesoros olvidados.",
+
+        "Nada más cruzar el umbral, las puertas tras ellos se cerraron de golpe y el eco del metal oxidado reverberó por los pasillos desmoronados. Al instante, esqueletos de antiguos guerreros élficos, consumidos por el tiempo, cobraron vida y se lanzaron al ataque. La batalla fue feroz, pero con el acero de Niels, la magia de Irn, las melodías inspiradoras de Merino y la agilidad de Wipp, los enemigos fueron reducidos a polvo.",
+
+        "Tras la lucha, los héroes recorrieron las frías estancias decoradas con tapices majestuosos, cada uno retratando a los antiguos reyes élficos que alguna vez gobernaron esas tierras. Pero al llegar al último tapiz, lo hallaron desgarrado; entre los jirones, apenas se distinguía la imagen de una joven reina elfa.",
+
+        "Un sonido dulce flotó en el aire: una canción melancólica, entonada por una voz femenina. Al abrir la puerta siguiente, Wipp se encontró con el espectro de una bella elfa peinándose en el hall. La fantasma, al ver a Wipp, exclamó con alegría: —¡Hermana! Qué alegría verte. Padre nos espera en la torre para darnos la buena nueva, estoy emocionada.— Y se desvaneció en un parpadeo.",
+
+        "En el suelo, Wipp reparó en un símbolo grabado, el mismo que llevaba en el anillo que había robado en un puesto del pueblo de Kar'Oyas tiempo atrás.",
+
+        "Exploraron el castillo, encontrando los cadáveres de antiguos buscadores de tesoros. Algunos habían caído ante las espadas de los esqueletos, pero otros presentaban un destino más misterioso: los oídos estallados, como si un sonido desgarrador los hubiera matado. En la habitación del consejero real, entre manuscritos polvorientos, descubrieron la historia de la familia que reinó allí. El último rey elfo tuvo dos hijas: la mayor, caprichosa y volátil, y la menor, responsable y justa. Las palabras del antiguo mago y consejero reflejaban el conflicto que reinaba entre ellas.",
+
+        "Mientras continuaban su investigación, fueron sorprendidos por una librería mímica que trató de devorar a Wipp, y por un enjambre de arañas que casi atrapan a Niels. Sin embargo, con astucia y fuerza, los héroes sobrevivieron a ambos encuentros.",
+
+        "La figura espectral de la hija mayor volvió a aparecer, esta vez en la habitación del mago. Cantaba la misma canción triste, y al ver a Irn, creyó que era su padre; al ver a Wipp, pensó que era su hermana. La fantasma les instó a subir a la torre para recibir la noticia de su padre.",
+
+        "En un antiguo jardín, lleno de pájaros charlando entre ellos, Merino utilizó un anillo robado de un druida traidor llamado Dûnn para hablar con los animales. Los pájaros revelaron la verdad: hace años, el último rey elfo abdicó en favor de su hija menor, entregándole el anillo real, el mismo que ahora poseía Wipp. Llenándose de furia, la hija mayor mató a sus padres y a su hermana, condenando el castillo y a sí misma a un bucle eterno, repitiendo el día en el que no recibió el trono. Uno de los pájaros, encariñado con Niels, decidió quedarse a su lado. Niels le dio el nombre de Fabián, su nuevo compañero animal.",
+
+        "Decididos a romper la maldición, los héroes trazaron un plan. Wipp entregó el anillo a Irn antes de subir a la torre. Merino tocó su laúd, conjurando una ilusión menor de una luna radiante. Niels, asumiendo el papel de guardia real, escoltó a Irn, quien se hizo pasar por el rey, y a Wipp, como la hija menor.",
+
+        "En la cima de la torre, el fantasma los recibió con una sonrisa ilusionada. Irn, con voz solemne, proclamó su abdicación en favor de la hija mayor. Extendiendo su etérea mano, la joven elfa recibió el anillo real, que Irn deslizó en su dedo. La luz la envolvió y, con una última mirada de satisfacción, desapareció.",
+
+        "La maldición fue rota. El silencio reinó en el castillo por primera vez en siglos.",
+
+        "Merino, emocionado, ganó una nueva historia que contar, y los héroes dejaron las ruinas, sabiendo que habían liberado un alma atormentada y restaurado una parte del pasado élfico perdido."
       ]
     },
     {
@@ -181,6 +215,510 @@
         "En combate singular Niels se enfrentó a él con valentía y tras varios golpes, acabó con el bandido pero este en lugar de desaparecer como el resto se volvió polvo y como si fuera una corriente de aire se metió por la boca, los ojos, los oidos de Niels y desapareció y con él la ilusión del poblado.",
 
         "Niels había superado la prueba pero había descubierto que los fantasmas de su pasado tarde o temprano volverían a él. Tall y como Thorm había tenido que vivir sabiendo _____ Niels vivió sabiendo que la sombra de su culpa seguirá rondándole todos los días."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "La bella y la bestia",
+      "tags": [
+        "bestia",
+        "ciclo",
+        "Gillian",
+        "Rothbank",
+        "ruinas",
+        "maldición",
+        "renacer",
+        "lince",
+        "Bastián",
+        "bastian"
+      ],
+      "description": "Una maldición ancestral, una batalla eterna y un sacrificio necesario. Nuestros héroes luchan contra el destino para romper el ciclo de Gillian y Rothbank, donde cada derrota solo marca un nuevo comienzo.",
+      "content": [
+        "Nuestros valientes héroes continuaron su viaje hacia las ciudades del sur. No viajaban solos, pues a su lado caminaban dos fieles compañeros: Gillian y Bastián, dos medianos que les habían acompañado a lo largo de muchas aventuras.",
+
+        "Sin embargo, algo inquietante se cernía sobre ellos. Gillian, normalmente alegre y perspicaz, llevaba varios días comportándose de forma extraña, con la mirada perdida y un aire de preocupación constante. Al caer la noche, el grupo comenzó a notar una presencia acechante, como si algo les vigilara desde las sombras. Decidieron organizar guardias nocturnas para prevenir cualquier ataque.",
+
+        "Durante una de esas guardias, con Wipp y Niels atentos a su alrededor, una espesa niebla empezó a deslizarse silenciosamente entre los árboles. De pronto, de entre las brumas emergió una bestia trémula, de aspecto inquietante y movimientos erráticos, que sin vacilar se lanzó al ataque. Los héroes se defendieron con ferocidad, pero pronto notaron que la criatura tenía un objetivo claro: Gillian. A pesar de sus esfuerzos por repeler a la bestia, esta utilizó su habilidad de Distorsión para desaparecer, llevándose consigo la niebla y dejando al grupo confundido y alerta.",
+
+        "Tras este ataque, el grupo decidió interrogar a Gillian, exigiendo respuestas. Con voz temblorosa, la mediana reveló la verdad: muchos años atrás, durante una guerra entre elfos, gigantes y dragones plateados contra el temible dragón rojo y sus ejércitos, ella había luchado junto a los elfos. En una cruenta batalla, se enfrentó a Rothbank, un semidragón, a quien logró derrotar a duras penas. No obstante, antes de morir, Rothbank lanzó una maldición: ambos estarían condenados a reencarnarse y a encontrarse una y otra vez, destinados a combatir eternamente.",
+
+        "En esta era, Gillian había renacido como mediana y Rothbank, convertido ahora en la temible bestia trémula, seguía su rastro. La única forma de romper el ciclo era regresar a las mismas ruinas donde habían librado su primer enfrentamiento y acabar con Rothbank una vez más.",
+
+        "El grupo elaboró un plan: Gillian actuaría como cebo para atraer a la bestia, mientras que los demás atacarían al unísono en el momento oportuno. Al llegar a las ruinas, el aire estaba cargado de tensión. No tardó en aparecer la niebla, y con ella, la bestia trémula. La emboscada fue feroz; la batalla, encarnizada. A pesar de los embistes del enemigo, nuestros héroes lograron derrotarlo.",
+
+        "Pero el destino tenía un último giro preparado. Para asegurarse de que la bestia no volviera a surgir, Gillian también debía caer. Con el corazón roto y las lágrimas asomando, Bastián hundió su daga en el pecho de su querida amiga. Un destello de luz cegadora envolvió el lugar y, cuando la claridad se disipó, tanto la bestia como Gillian habían desaparecido.",
+
+        "El silencio fue roto por un suave movimiento entre la maleza. A los pies de Bastián apareció un lince albino, de mirada penetrante, que se enredó entre sus piernas. En un instante de comprensión y emoción, Bastián reconoció a Gillian. La cogió entre sus brazos y, con una mezcla de tristeza y alivio, aceptó a su amiga renacida como su compañera animal.",
+
+        "El ciclo había sido roto, pero la historia de Gillian y Rothbank quedaba marcada en las almas de nuestros héroes, quienes reanudaron su camino con una nueva aliada a su lado."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "El Caos en Daggerfall: Héroes por Accidente",
+      "tags": [
+        "Daggerfall",
+        "Clarividente",
+        "Culto del Dragón",
+        "ilusión",
+        "guardias",
+        "taberna"
+      ],
+      "description": "Una reunión secreta, un mensaje cifrado y una cena que terminó en incendio: lo que parecía ser un simple encuentro con El Clarividente se convirtió en una noche inolvidable. Entre ilusiones descontroladas, aplausos inmerecidos y una revelación sobre el Culto del Dragón, el grupo se adentra aún más en una peligrosa conspiración que amenaza las sombras de Daggerford.",
+      "content": [
+        "El grupo formado por Merino de Rocamar, el mediano bardo; Irnithin del Clan Xaxanthas, el dracónido azul clérigo de la Tormenta devoto del dios Njord; Niels, el paladín humano de Thorm; y Wipp, la alta elfa pícara arcana, vivieron una jornada caótica en la ciudad de Daggerfall.",
+
+        "Todo comenzó cuando Wipp, tras días de esfuerzo, logró descifrar el mensaje cifrado que le había dejado El Clarividente. Al principio pensó que era un hechizo, pero finalmente descubrió que en realidad era una simple frase: 'Reúnete conmigo en la taberna de Daggerfall'.",
+
+        "El problema surgió cuando descubrieron que había dos tabernas en la ciudad: una más popular y bulliciosa, y otra de aire más refinado y elegante. El Clarividente les esperaba en esta última. Acostumbrados a comidas contundentes y cerveza espumosa, los héroes quedaron desconcertados cuando fueron sentados en una mesa cubierta con mantel blanco y les sirvieron platos de nueva cocina, donde las raciones eran minúsculas y artísticamente presentadas.",
+
+        "Al finalizar la comida, el caos comenzó a desatarse. Gillian, convertida en un gato, se escabullió a las cocinas. Mientras tanto, Niels y Bastian, bastante ebrios, empezaron a molestar a las mesas cercanas. Merino, divertido por la situación, decidió provocar una ilusión menor: el rugido de una bestia invisible resonó desde las cocinas. Los comensales, aterrados, comenzaron a huir despavoridos.",
+
+        "A pesar de que sus compañeros pronto notaron que todo era una treta de Merino, Irn, convencido del peligro, desenvainó su maza y alzó su escudo, adentándose entre las llamas que empezaban a consumir el salón debido a las sartenes volcadas por los cocineros en su huida. Cuando llegó a las cocinas, lo único que encontró fue a Gillian, todavía en forma de gato, devorando tranquilamente un pollo caído al suelo. Asumiendo que la 'bestia' era ella, salió con calma.",
+
+        "Mientras tanto, los guardias de la ciudad llegaron para proteger a los nobles de la aparente amenaza. El grupo fue empujado a la calle junto con el resto de los comensales. Fue entonces cuando Merino, rápido de mente, lanzó otro hechizo, transformándose en la imagen de un noble y proclamó a gritos: '¡Ese dracónido nos ha salvado a todos!', '¡Ha luchado contra la bestia y ha ganado!', '¡Es un héroe!', '¡Viva Irn!'.",
+
+        "La multitud, al ver que la situación estaba controlada, comenzó a vitorear a Irn. Los guardias, tras asegurar la taberna y mientras intentaban extinguir el fuego a la espera de los bomberos, nombraron a Irn 'amigo de la ciudad' y prometieron que nunca olvidarían su valiente acción.",
+
+        "Fue en ese momento de celebración cuando Wipp, de pronto, recordó el verdadero motivo de su visita: '¡Mierda! ¡Yo tenía que reunirme con El Clarividente dentro!'. Aprovechó una distracción de los guardias para escabullirse de nuevo en la posada y subir a las habitaciones del piso superior.",
+
+        "Allí encontró al misterioso Clarividente, quien le reveló la razón de su enigmático mensaje. Necesitaba asegurarse de que Wipp era digna de la tarea que tenía para ella. Confesó que había sido amigo de sus padres y que había lamentado profundamente su asesinato. Durante años, investigó el ataque y descubrió que los responsables eran miembros del temible Culto del Dragón, una organización dedicada a traer de vuelta a los dragones para aprovechar su poder.",
+
+        "El Clarividente reveló que había seguido las actividades del Culto hasta Daggerford y estaba convencido de que tenían una base secreta en la ciudad. Además, le aseguró que dentro de esa base se encontraba un objeto que había pertenecido a la madre de Wipp. Para ayudarla a identificarlo, le entregó un broche con el emblema que su madre solía llevar.",
+
+        "Finalmente, le dio una dirección y un emplazamiento clave para su próxima misión: el puerto de Daggerford."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "El Caos en Daggerfall: Bombas y Emboscadas",
+      "tags": [
+        "Culto",
+        "Daggerfall",
+        "kobolds",
+        "artificieros",
+        "campanilla",
+        "emboscada",
+        "guarida",
+        "Merino",
+        "bombas",
+        "bomba"
+      ],
+      "description": "Nuestros héroes, guiados por pistas del Clarividente, siguen el rastro del Culto del Dragón hasta un almacén en el puerto de Daggerfall. A través de combates feroces, trampas ocultas y emboscadas letales, avanzan hacia el corazón de la guarida enemiga. Pero la falta de un plan meticuloso los lleva a una situación desesperada, donde uno a uno caen ante los kobolds artificieros. Solo Merino queda en pie, enfrentado a la aterradora posibilidad de perderlo todo. ¿Será este su final?",
+      "content": [
+        "Bajo la luz de la luna, en la brumosa noche del puerto de Daggerfall, nuestros héroes se movían con cautela. Merino de Rocamar, el mediano bardo, Irnithin del Clan Xaxanthas, el dracónido clérigo de la Tormenta, Niels, el paladín humano de Thorm, y Wipp, la alta elfa pícara arcana, buscaban respuestas. El Clarividente les había advertido sobre la creciente actividad del Culto del Dragón en el puerto y la posibilidad de que su base secreta se encontrara oculta en algún rincón de aquel lugar. Para Wipp, esta misión tenía un tinte personal: el culto había atacado a su familia y, entre sus tesoros, guardaban un objeto que perteneció a su madre. Un broche con el emblema materno, dado por el Clarividente, sería la clave para encontrarlo.",
+
+        "Tras hablar con varios marineros, descubrieron que por las noches atracaban barcos extraños, capitaneados por dracónidos y personajes oscuros. Suelen dirigirse al fondo del puerto, donde pocos ojos podían espiar sus actividades. Decididos a investigar, se acercaron con sigilo. Wipp, adelantándose con su pericia, avistó a una figura extraña tambaleándose. Sus movimientos eran erráticos, como si cada parte de su cuerpo tuviera voluntad propia. Siguiéndolo hasta un pequeño almacén, descubrió la farsa: no era un solo individuo, sino tres kobolds ocultos bajo un gran abrigo.",
+
+        "Desde una ventana del almacén, la pícara observó que en su interior solo dos kobolds montaban guardia. Informó a sus compañeros y, tras deliberar diferentes estrategias, optaron por una acción rápida y contundente. Derribarían la puerta y atacarían por sorpresa, mientras algunos entrarían por la ventana. El combate fue breve pero intenso. Antes de ser abatidos, los kobolds lograron hacer sonar una pequeña campanilla en la pared. No pareció tener efecto inmediato, pero la precaución susurró dudas en sus mentes.",
+
+        "El almacén contenía barriles, cajas de madera, redes de pesca y abrigos, pero nada que indicara el paradero del kobold desaparecido. Al investigar, Wipp descubrió que la campanilla estaba unida a una cuerda que se adentraba en la pared. Al tocarla, la cuerda se movía, activando algún mecanismo oculto. Niels y Wipp, explorando el suelo, notaron que algunas baldosas se hundían bajo su peso y luego volvían a su lugar. Fue Merino, junto con Bastian e Irnithin, quienes se posicionaron sobre las baldosas adecuadas, activando un pasadizo secreto que se abrió bajo sus pies.",
+
+        "Descendieron con cautela, pero los kobolds les esperaban en emboscada. La batalla fue feroz, una lucha encarnizada en la que cada golpe contaba. Cuando los kobolds comenzaron a perder terreno, una vez más hicieron sonar la campanilla. Los héroes no le dieron importancia, sin saber lo que ello desencadenaría. En medio del fragor del combate, una flecha envenenada impactó en Niels, quien cayó al suelo, sumido en un profundo sueño.",
+
+        "Aún en pie quedaban Merino, Irnithin, Wipp, Bastian y Gillian. No se detuvieron a considerar la posible función de las campanillas ni el sistema de señales del culto. En su lugar, avanzaron más y más en la guarida secreta, sin imaginar el destino que les aguardaba.",
+
+        "Fue entonces cuando ocurrió uno de los momentos que más recuerdan a día de hoy y aún les ensombrece el rostro y les da escalofríos. Al final de un angosto pasillo, una nueva emboscada los aguardaba. Dos kobolds alzaron sus armas, pero apenas se vieron superados, uno de ellos corrió en busca de refuerzos. Y estos no tardaron en llegar. Kobolds artificieros emergieron con bombas listas para detonar, lanzando explosivos sin piedad. La refriega fue despiadada. Irnithin cayó primero, luego Bastian y Gillian. Con la respiración entrecortada, Merino vio a sus amigos desplomarse uno tras otro. La desesperación le instó a huir. Con el corazón palpitante, dio media vuelta y corrió, luchando por su vida.",
+
+        "Pero Wipp no tuvo tal suerte. Atrapada y rodeada de enemigos, luchó hasta el último aliento antes de caer. La oscuridad cubrió sus sentidos. Sus cuerpos yacían en el suelo de la guarida del culto, el eco de la última explosión resonando en la distancia.",
+
+        "¿Había sido este el final? ¿Había sido un error adentrarse sin un plan en la guarida del Culto del Dragón? ¿Sería Merino capaz de salvar a sus compañeros? Solo el destino lo diría..."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "El Caos en Daggerfall: El Resurgir de los Caídos",
+      "tags": [
+        "Culto del Dragón",
+        "dragón",
+        "dragones",
+        "Duradel",
+        "madre",
+        "Tiamat",
+        "Wipp"
+      ],
+      "description": "En la penumbra de la gruta, Niels se enfrentó a su peor pesadilla: la sombra de Bjarke, que se burlaba de su fracaso. Pero con un grito de rabia, disipó la ilusión y empuñó su hacha de nuevo. Mientras tanto, Merino, herido y al borde del colapso, se debatía entre la huida o la valentía. Decidió regresar. Irn, Wipp y Bastian, prisioneros del Culto, descubrieron un plan para despertar un dragón ancestral. Una batalla brutal selló el destino de Duradel, pero el verdadero hallazgo los sacudió aún más: la madre de Wipp seguía con vida.",
+      "content": [
+        "En la penumbra de una gruta dentro de la guarida del Culto del Dragón, Niels comenzó a recobrar la consciencia. Su cuerpo dolorido y su mente nublada por la batalla reciente le impedían moverse con soltura. Fue entonces cuando la sombra de Bjarke, su espectral tormento, se manifestó ante él.",
+
+        "—Vaya, parece que de nuevo no has podido salvar a tus compañeros y han muerto todos por tu culpa —se burló la sombra, su voz impregnada de un eco siniestro—. ¡Mírate! Tirado en el suelo, ni siquiera eres capaz de sostener tu hacha.",
+
+        "La risa de Bjarke retumbó en la cueva, pero Niels, sacando fuerzas de la flaqueza, se puso en pie con determinación. Con un grito de rabia, golpeó la sombra con su arma, que se desvaneció en una nube de polvo. Su hacha quedó incrustada en la pared, y su respiración entrecortada era prueba de su agotamiento. Fue entonces cuando un sonido lo alertó: explosiones y pasos corriendo en su dirección. Se ocultó entre las sombras, esperando a un ejército de kobolds... pero en su lugar, vio a Merino.",
+
+        "El mediano bardo, con el cuerpo cubierto de heridas y quemaduras, apenas se mantenía en pie. Había huido por los túneles hasta un pequeño almacén, donde, convencido de que lo seguirían, preparó una barricada y una emboscada. Se ocultó tras unos barriles con la ballesta en mano, su pulso tembloroso, luchando por no pensar en sus compañeros caídos.",
+
+        "Mientras tanto, Irn, Wipp y Bastian despertaron en una célula maloliente, atados de pies y manos. Un kobold médico los había estabilizado, pero seguían demasiado débiles. Irn, entendiendo dracónido, intentó engañar a sus captores para que los liberaran, sin éxito. Escuchó entonces a los guardias mencionar a Duradel, el jefe de la guarida.",
+
+        "Atendiendo a las conversaciones, Irn captó palabras sobre un gran dragón y un plan para traerlo de vuelta. Sospechó que se trataba de Tiamat, pero la descripción no terminaba de encajar.",
+
+        "Por su parte, Niels se sanó con un conjuro y, al escuchar nuevos pasos, supo que kobolds perseguían a alguien. Pensó en Merino. En su mente resonaron las palabras de Thorm, su dios, y su juramento como protector lo impulsó a abandonar su escondite. Con fiereza, se lanzó sobre los kobolds y los abatió rápidamente antes de ir en busca de sus amigos.",
+
+        "Merino, por su parte, esperó tras su barricada, pero ningún enemigo llegó. Se debatió entre huir y empezar de nuevo o permanecer fiel a su grupo. Finalmente, reafirmó su convicción: ¡Él era valiente y un aventurero! Con la ballesta en mano, regresó a los túneles.",
+
+        "En la cárcel, Duradel se presentó ante Irn, Wipp y Bastian. El dracónido negro, ataviado con ropajes rituales morados, los interrogó y trató de persuadir a Irn para que se uniera al culto. Le habló de la resurrección de un gran dragón y el futuro reinado de los dracónidos. Irn rechazó la oferta y Duradel los condenó a muerte.",
+
+        "Mientras Duradel salía, Wipp aprovechó para liberarse y asfixió al kobold médico. Sus compañeros fueron liberados y escaparon de la celda.",
+
+        "Niels y Merino se reunieron y vieron a Duradel salir de una habitación. Decidieron esperar a que se marchara antes de avanzar. Al abrir una puerta, llegaron a un comedor repleto de kobolds comiendo. En ese momento, otra puerta se abrió, y Wipp, Irn y Bastian irrumpieron en la sala con Gillian. Comenzó una batalla caótica.",
+
+        "Merino, en busca de venganza, encontró bombas similares a las que usaron contra sus amigos y las lanzó contra los kobolds, riendo a carcajadas. La batalla terminó rápidamente y esta vez evitaron que los enemigos tocaran las campanas de alarma. Tras recuperar su equipo y descansar, continuaron su camino.",
+
+        "En su avance, encontraron a Hiks, un kobold responsable del inventario de la guarida. Les reveló que no veneraba a los dragones y que deseaba huir, pues el culto no permitía desertores. A cambio de su ayuda, les prometió guiarlos y ayudarles a recuperar el objeto que buscaban.",
+
+        "Con la ayuda de Hiks, Irn se disfrazó como un miembro del culto con una túnica ritual y una ilusón menor para cambiar el color de sus escamas. Merino hizo lo mismo con Niels, disfrazándolo de kobold. Mientras tanto, el resto del equipo se escondió bajo un carrito de objetos mágicos con la intención de atravesar el gran hall sin ser descubiertos. Todo salió según lo planeado hasta que se encontraron cara a cara con Duradel.",
+
+        "Gracias a la actuación de Irn, lograron no levantar sospechas, y Duradel los instó a reunirse con él en su despacho. Cerraron la puerta tras de sí, y Merino lanzó un conjuro para bloquear la entrada. Dentro encontraron libros, cofres y dos dracónidos estudiosos, además de los guardaespaldas de Duradel. La batalla fue feroz. Para sorpresa de todos, Hiks demostró ser un hábil mago y curó a los aventureros cuando más lo necesitaban. Finalmente, abatieron a Duradel, quien, antes de morir, les advirtió que el plan del Culto ya había comenzado y que era imposible detenerlo.",
+
+        "Rebuscaron entre los documentos y hallaron información crucial: los bárbaros que asolaban el norte estaban financiados por el Culto, e incluso eran responsables del ataque al pueblo de Niels. También encontraron registros sobre una antigua guerra entre elfos, gigantes y dragones contra una gran sierpe. Descubrieron además un dato impactante: el dragón que destruyó Rocamar, la ciudad de Merino, había sido despertado por el Culto.",
+
+        "Entre los objetos, hallaron un bloque de madera bellamente tallado con el emblema de la madre de Wipp. Al llevárselo al Clarividente, este lo abrió con un conjuro y reveló una espada lunar. Le pidió a Wipp que la sostuviera. La espada no reaccionó, lo que hizo saltar de alegría al Clarividente.",
+        "Le explica que las espadas lunares están ligadas al linaje de una familia élfica y solo pueden heredarse de padres a hijos. Su sintonización solo es posible si el portador actual ha fallecido o ha renunciado voluntariamente a ella en favor de su descendencia. El hecho de que la espada no reaccionara al contacto de Wipp solo podía significar una cosa. ¡¡¡La madre de Wipp estaba aún con vida!!!"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "De niño a hombre",
+      "tags": [],
+      "description": "Los héroes regresaron a Kar'Oyas para una celebración, pero encontraron traición y sangre. Entre viejas rencillas y conspiraciones, lucharon por salvar al pueblo de un golpe letal. Con valor, descubrieron al enemigo oculto y restauraron el orden con acero y magia. Ahora, con la victoria en sus manos, La Trucha Ahogada será un refugio para aventureros.",
+      "content": [
+        "Después de un largo viaje, nuestros héroes regresaron a Kar'Oyas, el pueblo donde sus aventuras comenzaron. La última vez que pisaron esas tierras, el jarl Gark El Puño los había convocado para encontrar a su hijo desaparecido; esta vez, la llamada era distinta, aunque igualmente importante: Girk, el hijo de Gark, estaba listo para su ceremonia de paso a la adultez, y el jarl quería que Irnithin, clérigo de Njord, oficiara el ritual.",
+
+        "El regreso estuvo marcado por la nostalgia al reencontrarse con viejos conocidos. En la entrada, los guardias Paris y Romá los recibieron con el mismo entusiasmo de antes. Dentro del pueblo, Girk, su padre Gark y la madre del joven los esperaban, junto a Thorgrim, el inseparable amigo de Girk, cuya vida salvaron en el pasado. Astrid, la leal guardaespaldas de Gark, había ascendido a consejera tras ayudar a desenmascarar al druida Dûnn, el artífice de los males anteriores.",
+
+        "La víspera de la ceremonia se convirtió en una gran celebración en la taberna de Lars. Antes de unirse a la fiesta, Irn visitó el nuevo templo de Njord, construido con la donación de su recompensa. La estructura, con forma de barco atracado permanentemente, ofrecía un espectáculo imponente en el puerto. En la taberna, los héroes conocieron a Lilly Cordiplata, una bardo humana que sorprendió a Merino al interpretar 'El Viejo y el Hijo', una canción que él mismo había compuesto en honor a su anterior aventura en Kar'Oyas. Al final de la interpretación, Merino subió al escenario y terminó la canción con ella, pero mientras sus compañeros ignoraron a la nueva bardo, Wipp no quedó nada impresionada por su actitud.",
+
+        "Más tarde, apartados en la barra, Merino y Lilly compartieron un par de cervezas y una conversación que se tornó más íntima de lo esperado. Engatusado por la melodiosa voz de la bardo, Merino le reveló información sobre sus compañeros: sus habilidades, miedos y debilidades. Cuando Lilly desapareció, el mediano se percató de que había estado bajo un encantamiento, pero en lugar de enfadarse, simplemente rió y volvió a disfrutar de la fiesta.",
+
+        "A la mañana siguiente, la ceremonia de paso comenzó con solemnidad. Irn presentó a Girk ante Njord, y tres personas ofrecieron palabras y armas en su honor. Primero, su padre Gark le entregó su espada con un discurso lleno de orgullo. Luego, Niels le otorgó su hacha, recordando el valor que Girk demostró al ser rescatado. Finalmente, Thorgrim tomó la palabra, pero en un giro inesperado, al terminar su discurso y pronunciar 'y yo te cedo mi puñal', lo hundió en el pecho de su amigo.",
+
+        "Con un grito ahogado, Girk cayó al suelo, y el caos se desató. Thorgrim clamó por la muerte de los invasores y la gloria del Clan Hella mientras varios guerreros atacaban a los asistentes, sellaban las puertas del templo y prendían fuego al recinto. La batalla fue encarnizada: Niels logró abrir las puertas para evacuar a los aldeanos, Wipp despachó a varios enemigos, e Irn, con una tormenta de escarcha, apagó las llamas y estabilizó a los heridos. En medio del combate, Merino se enfrentó a Lilly, quien le inmovilizó con un conjuro y lo dejó fuera de combate tras decir: 'Lo siento, cielo, solo son negocios.'",
+
+        "A medida que la batalla avanzaba, Wipp acabó con Thorgrim y se lanzó tras Lilly, quien usó invisibilidad para escapar. Sin embargo, la elfa pícara la alcanzó con un Disipar Magia y la confrontó. Lilly, sin inmutarse, explicó que su contrato había terminado con la muerte de Thorgrim y huyó. Wipp, aunque deseaba seguirla, decidió regresar para ayudar a sus amigos.",
+
+        "Con los traidores derrotados, los héroes investigaron y descubrieron que el Clan Hella, despojado de Kar'Oyas hacía años, aún contaba con seguidores en la aldea. En la habitación de Thorgrim en la taberna de Lars, hallaron mensajes de un tal 'Lobo Gris', el cerebro del plan, quien aseguraba que la hija del antiguo líder del Clan Hella vivía en el pueblo y que la señal para atacar sería el cambio de bandera en el castillo.",
+
+        "Mientras Merino entretenía a Lars en la taberna, los demás se infiltraron en la habitación, pero su pesquisa fue interrumpida cuando Lars, revelándose como un traidor, ordenó a varios hombres atacar al mediano. Sus compañeros acudieron en su ayuda, derrotaron a los asaltantes y llevaron a Lars ante el jarl, quien se enteró de la conspiración que se gestaba en su contra. Mientras tanto, los héroes identificaban la posible casa del Lobo Gris mediante una carta en la que describía la vista desde su ventana. Sin embargo, al llegar, encontraron la casa vacía y la bandera del Clan Hella ondeando en el castillo: la señal de ataque había sido dada.",
+
+        "Con rapidez, corrieron al castillo y encontraron un silencio inquietante. Al llegar a la sala del jarl, solo estaban su esposa y una criada. Fue entonces cuando Astrid entró con varios guardias, y el alivio de los héroes se tornó en horror cuando la mujer se reveló como la hija perdida del Clan Hella y la verdadera líder de la rebelión.",
+
+        "La batalla final fue feroz. La esposa del jarl murió antes de que Irn pudiera salvarla, y Lars encontró su final en un devastador hechizo de área. Cuando parecía que Astrid caería, se transformó en un enorme oso y cargó con furia. La lucha continuó hasta que finalmente los héroes lograron la victoria.",
+
+        "Al día siguiente, Kar'Oyas se vistió de luto para despedir a la esposa de Gark. Devastado por la pérdida y el conflicto, el jarl decidió abdicar en favor de su hijo Girk. Los traidores fueron encerrados en las Cárceles de Salitre, y como muestra de gratitud, los héroes fueron nombrados Hijos del Pueblo y Protectores de Kar'Oyas. Irn fue reconocido como sumo sacerdote del pueblo y, en un giro inesperado, les otorgaron la taberna de Lars, que había quedado sin dueño.",
+
+        "Decidieron renombrarla 'La Trucha Ahogada' y convertirla en un refugio para héroes y aventureros, un símbolo de las hazañas que habían marcado sus vidas y el inicio de una nueva era para Kar'Oyas."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "En busca de la receta de Salchicha Definitiva",
+      "tags": [
+        "Runeheim",
+        "salchichas",
+        "taberna",
+        "gremio",
+        "aventureros",
+        "enanos"
+      ],
+      "description": "Nuestros héroes, tras la victoria en Kar'Oyas, se embarcan en una nueva aventura: conseguir la receta de las legendarias salchichas curativas de Lars. En su camino hacia Runeheim, se encuentran con enanos recolectores de tesoros élficos y enfrentan desafíos en un pueblo celoso de sus secretos. Con ingenio y valentía, luchan por obtener la receta y descubrir el misterio que rodea a las salchichas.",
+      "content": [
+        "En la bulliciosa ciudad de Kar’Oyas, nuestros héroes se encontraban en la recién rebautizada taberna 'La Trucha Ahogada'. No satisfechos solo con regentar una taberna, decidieron convertirla en el núcleo de un nuevo Gremio de Aventureros. Con entusiasmo, invirtieron su dinero en remodelaciones, contrataciones y mejoras tras la destrucción sufrida en sesiones anteriores.",
+
+        "En su búsqueda de personal, contrataron a Purri Gruntz, una semiorca que habían conocido en la Cacotriz Tartamuda, para la limpieza. Al joven Timmy le ofrecieron el puesto de mozo de los establos, mientras que Romá, antiguo guardia de la puerta, asumió el rol de seguridad del lugar. Finalmente, confiaron la administración tanto del gremio como de la taberna a Paris, quien recibió una suma de dinero para adquirir vestimenta más acorde con su nuevo cargo. Aún les faltaban camareros y cocineros, pero la estructura de su proyecto tomaba forma.",
+
+        "Durante la reforma, la taberna adquirió nuevas habitaciones, y el pequeño Timmy se encargó de mostrárselas a sus ocupantes:",
+
+        "Merino descubrió que su habitación se ubicaba junto a los establos y que su querido pony, Tintinera, podía acceder a ella a través de una puerta tipo establo. En su cama le esperaban una armadura de cuero y un escudo redondo con un soporte para su laúd, regalos de Girk, el nuevo jarl de Kar'Oyas.",
+
+        "Irn obtuvo la única habitación con salida directa a la calle, justo frente al templo de Njord, al que se dirigió sin demora.",
+
+        "Niels recibió un cuarto con un pequeño altar a Thorm, estanterías para su armadura y un grifo de cerveza conectado a la cocina. Además, contaba con una jaula para su fiel pajarillo, Fabián.",
+
+        "En cuanto a Wipp, al llegar a su habitación, Timmy sufrió una misteriosa posesión. De su boca emergieron las voces del Clarividente y el Mago Oveja, anunciando un regalo especial: el pomo de la puerta era mágico. Al girarlo, Wipp podía elegir entre una habitación normal o una majestuosa sala con techos altos, vidrieras de colores y una eterna luz otoñal.",
+
+        "Mientras tanto, en el templo de Njord, Irn fue recibido por Eric, el sacristán, quien le informó de la finalización de las obras de restauración. Irn decidió incluir pequeños altares a varias deidades en la capilla, siendo el de Njord el más prominente. Durante su visita, conoció a Balassar, un dracónido rojo que, agradecido por la restauración del culto a Njord, se convirtió en su amigo.",
+
+        "Más tarde, el grupo visitó a Sif, la herrera, para vender armas y adquirir equipo. Desafortunadamente, no encontraron ningún látigo para Merino. Irn, sin embargo, persuadió al anciano Sof, padre de Sif, para que buscara uno en sus viajes.",
+
+        "La siguiente preocupación del grupo fue la receta de las salchichas curativas de Lars, el antiguo tabernero. Según Romá, Lars no las preparaba él mismo, sino que las compraba en Runeheim, un pueblo costero que guardaba celosamente su receta. Para obtenerla, deberían superar ciertas pruebas.",
+
+        "Emprendieron el viaje hacia Runeheim a través del Bosque de Ljórondal, un bosque antiguo con árboles tallados con rostros que susurraban en la noche. En su travesía, encontraron a los enanos Bruni, Breni y Broni, acompañados de su cerdita Piggy, recolectores de tesoros élficos. Pasaron la noche juntos en unas ruinas, compartiendo comida y bebida antes de continuar el viaje.",
+
+        "Al llegar a Runeheim, se encontraron con un pueblo de casas rúnicas rodeadas de piedras grabadas con historias ancestrales. Sus habitantes, hábiles artesanos, se mostraban reacios a aceptar extranjeros. Un hombre alto y fuerte llamado Bjorn los recibió y los llevó ante el jarl en la Gran Sala de los Héroes, donde se determinó que solo podrían acceder si demostraban ser dignos.",
+
+        "Niels fue reconocido de inmediato como héroe. Para los demás, necesitaron padrinos:",
+
+        "Merino fue avalado por Darius el Manonegra, un viejo compañero de aventuras.",
+
+        "Irn fue respaldado por Balassar, quien destacó su labor restaurando el culto a Njord.",
+
+        "Wipp recibió el apoyo inesperado de Lilly Cordiplata, una antigua enemiga que habló de sus hazañas en Kar'Oyas.",
+
+        "Para obtener la receta de las salchichas, cada uno debía superar una prueba:",
+
+        "Niels ganó una competición de ver quién bebía más, bebiendo 10 pintas de cerveza hasta que su oponente cayó desmayado.",
+
+        "Merino debía conseguir una pluma de oso lechuza. En lugar de luchar, usó su anillo para hablar con la criatura y la convenció de volver a su guarida, donde recogió una pluma caída.",
+
+        "Irn subió al cerro más alto para tocar la campana de Njord, atrayendo a un wyverno. Cuando la bestia lo agarró y se elevó con él, Irn convocó un trueno letal que la fulminó, aterrizando con éxito frente a la campana.",
+
+        "Wipp debía atrapar un cerdo engrasado en un foso embarrado. Con astucia, usó su Mano de Mago invisible para sujetarlo y asegurar su victoria.",
+
+        "Superadas las pruebas, el pueblo les otorgó la receta secreta de las salchichas, que incluía carne de Higgis, ajo, cebolla, pimentón, sal, pimienta y el ingrediente más especial: salvia de los árboles de Luminaria. Además, recibieron seis Higgis como regalo y Bjorn se unió a ellos como cuidador de los cerdos.",
+
+        "Así, el grupo emprendió el camino de regreso a Kar’Oyas, habiendo cumplido su misión y con una nueva historia para contar."
+      ]
+    },
+    {
+      "id": 15,
+      "title": "¿Dónde estás amada?",
+      "tags": ["Ashardalon", "Dragon", "Balassar", "Taberna", "Látigo"],
+      "description": "Nuestros héroes atraviesan los misteriosos bosques de Ljórondal en su regreso a Kar'Oyas. Un encuentro con una ninfa, una fiesta inolvidable y el rapto de un pony desatan una peligrosa cadena de sucesos. La aparición de un viejo enemigo en forma de dragón rojo marcará el destino de todos.",
+      "content": [
+        "Nuestros héroes iniciaron el regreso a Kar’Oyas a través del espeso y milenario Bosque de Ljórondal. Les acompañaban seis cerdos lanudos de nombre Higgis y Bjorn, el bonachón goliat camarero y cuidador de los animales.",
+
+        "Al caer la noche, buscaron refugio en unas ruinas élficas, donde el descanso fue interrumpido por un extraño suceso: los cerdos, como poseídos, comenzaron a correr en estampida. Merino, Bjorn e Irn lograron atar a prácticamente todo, aunque no sin accidentes: Merino acabó atado a un árbol… y no parecía disgustado.",
+
+        "Mientras tanto, Wipp y Niels siguieron el rastro hasta un claro donde una figura etérea —una ninfa— cantaba y acariciaba a dos de los cerdos. Su presencia hacía que la noche pareciera día. La ninfa dirigió palabras proféticas a ambos: Wipp fue reconocida como heredera de un linaje antiguo con un destino importante, y Niels fue nombrado su 'Elegido', bendecido con un beso en la frente. Tras soltar a los cerdos, la figura se desvaneció y la noche volvió al claro.",
+
+        "Al amanecer, llegaron por fin a Kar’Oyas. Paris, engalanado para la ocasión, había preparado la inauguración de la Trucha Ahogada con ayuda de una talentosa enana cocinera. A ella confiaron la receta de las salchichas, incluyendo el misterioso ingrediente secreto: savia de árbol Luminaria. Bjorn, con pajarita, fue asignado tras la barra como camarero: “A todo el mundo que entre, tú le das una salchicha.”",
+
+        "La fiesta reunió a todos los personajes que habían marcado el viaje de los héroes: Bastian y Gillian, Darius el Manonegra, Lilly Cordiplata, los enanos Bruni, Breni y Broni, jarls de los alrededores, incluso Gruntz el Renacido. Durante la celebración, Darius reveló a Merino que altos elfos lo contrataron para investigar extrañas visitas de un grupo de extraños a ruinas cercanas. Bruni y sus hermanos contaron a Niels sobre un antiguo pergamino robado que revelaba un acceso secreto a un palacio élfico perdido. Así nació el primer contrato del Gremio de Aventureros de La Trucha Ahogada, encomendado a Gruntz.",
+
+        "Pero no todo fue alegría: unos maleantes causaban alboroto, hasta que Bjorn los expulsó cuando intentaron sobrepasarse con Wipp. A la mañana siguiente, con la resaca general, Merino despertó en el cubil y descubrió que dos cerdos actuaban raro: usaban hierbas en la comida para hacerla más apetecible y sus gruñidos se asemejaban a palabras.",
+
+        "Todo empeoró cuando Tintinera, el leal pony de Merino, había desaparecido. Solo quedaban restos mágicos en su establo. Roma, testigo parcial, y Jimmy, el mozo de establos, señalaron a los maleantes que en la noche anterior habían estado causando disturbios en la Trucha: habían transformado a Tintinera en un ser distinto y huido con él.",
+
+        "El rastro los llevó hasta un campamento en el bosque. Gracias a Wipp, desactivaron trampas sin ser vistos y lanzaron un ataque. Entre rayos y fuego, emergieron kobolds de una tienda en llamas, para asombro de los héroes. Capturaron al jefe de los bandidos y a un kobold. Merino, en un alarde teatral, se hizo pasar por su amigo, mientras Niels y Wipp usaban el clásico método del “poli bueno, poli malo”. Bajo Zona de la Verdad, confesó: habían sido contratados por cultistas para robar un pony y un pergamino. ¿El cliente? El Culto del Dragón.",
+
+        "Al recitar el contenido del pergamino en un claro que les había indicado el kobold, un portal se abrió en un árbol. Merino fue el primero en cruzarlo y encontró una sala con una piscina donde un elfo de agua lo retó a un duelo de baile. Merino se desnudó y danzó ganándose la lealtad del elfo, Helyanaro Nenquesse, que se convirtió en un látigo de agua atado a su alma.",
+
+        "El grupo continuó por salas repletas de antiguos grabados: guerras, gigantes de hielo, mares hirvientes y un dragón descomunal como centro de todo. En una cámara final, les esperaban kobolds y dos semidragones. La sala era amplia y oscura, sus paredes cubiertas por inscripciones antiguas y desgastadas por el tiempo. Uno de los semidragones resultó ser, para su asombro, Balassar, el dracónido rojo de ojos amables que alguna vez les había ofrecido amistad. En una jaula cercana, Tintinera relinchaba inquieta.",
+
+        "Balassar se dirigió a Irnithin con palabras de persuasión, intentando convencerle para que se uniera a su causa. Pero el clérigo del trueno no titubeó y, ante la negativa, estalló el combate. Desde el piso superior, cánticos rituales retumbaban como tambores de guerra, aumentando la tensión.",
+
+        "En medio del fragor de la batalla, Irn, aún con la esperanza de una resolución pacífica, le ofreció una tregua a Balassar: si no intentaba hacerles daño, que depusiera sus armas. Balassar, sorprendentemente, accedió… justo antes de que Niels, en un arrebato calculado, aprovechara la vulnerabilidad para asestarle un golpe demoledor.",
+
+        "La ilusión de paz se desvaneció. Balassar rugió y desató todo su poder. La lucha se intensificó. A duras penas, consiguieron liberar a Tintinera de su prisión. Los cánticos se elevaban con urgencia ritual y el grupo, comprendiendo que algo más grande se avecinaba, decidió huir con el pony antes de que fuera demasiado tarde.",
+
+        "Pero no todos salieron ilesos. Irn cayó bajo el furioso contraataque de Balassar, y Niels, maltrecho, apenas sostenía su arma cuando la sala retumbó con el silencio repentino: los cánticos cesaron. Fue entonces cuando Balassar se volvió hacia Merino. Sus palabras helaron la sangre del grupo: 'Has caído en la trampa. Llevo años esperando hacerme con el último Rocamarino'.",
+
+        "El dracónido se transformó ante sus ojos, su cuerpo creciendo, sus escamas endureciéndose y su aliento encendiéndose en llamas. Un dragón rojo surgió entre los escombros, y con una garra firme, atrapó a Merino dispuesto a llevárselo.",
+
+        "Justo cuando el dragón se elevaba, una ráfaga de luz y acero irrumpió en la escena: Darius el Manonegra, Bastian y Gillian, Lilly Cordiplata… y dos misteriosas figuras con túnicas y máscaras de oro, similares a la del Clarividente, llegaron como refuerzos. Atacaron al dragón con todo su poder, que respondió con una llamarada abrasadora.",
+
+        "En un momento de desesperación heroica, Niels, apenas con vida, logró asestar un hachazo crítico, mientras una flecha certera de Darius impactó en el flanco del dragón. El golpe combinado hizo que el dragón soltara a Merino, que cayó rodando entre el polvo y el fuego.",
+
+        "El dragón, herido pero no derrotado, desplegó sus alas, lanzó un rugido que sacudió la arboleda entera, y alzó el vuelo hacia el norte… dejando tras de sí una amenaza latente, un misterio sin resolver y la promesa de un nuevo conflicto por venir.…"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "El Concilio del Alba Roja",
+      "tags": [
+        "concilio",
+        "Ashardalon",
+        "La Calamidad Roja",
+        "Ljórondal",
+        "elfos",
+        "guerra",
+        "dragón"
+      ],
+      "description": "Los héroes asisten a un concilio sin precedentes, donde verdades enterradas emergen y antiguas alianzas vuelven a despertar. La historia de Ashardalon, “La Calamidad Roja”, se revela. Y cada uno de los presentes descubre que el destino ya ha comenzado a escribir sus nombres en la leyenda.",
+      "content": [
+        "Los ecos del rugido del dragón rojo aún resonaban en sus corazones cuando los héroes regresaron a Kar’Oyas, cansados pero vivos. Allí, las figuras encapuchadas que intervinieron en la batalla convocaron un concilio de emergencia. No sería uno cualquiera: se invitó a todos los jarls del norte y a los héroes que alguna vez pisaron la torre… una reunión sin precedentes.",
+
+        "Mientras los invitados llegaban de todos los rincones, la ciudad respiraba una tensa expectativa. Cada uno de los protagonistas buscó, a su manera, refugio y sentido en los momentos que antecedían a la reunión.",
+
+        "Merino, el mediano de Rocamar, dedicó el día entero a sintonizarse con su nuevo látigo, Helyanaro Nenquesse. El ritual exigía danzar durante horas con los pies sumergidos en agua clara, sosteniendo sobre el mango una única gota de rocío sin dejarla caer. Lo hizo sin esfuerzo, con la naturalidad de quien baila con la vida misma. Pronto, decenas de kar'oyanos se le unieron, contagiados por su alegría… todos completamente desnudos.",
+
+        "Wipp, en cambio, halló en la tierra un propósito. Plantó una semilla de Luminaria, haciendo brotar un nuevo árbol bajo su cuidado. Luego se reunió con sus mentores élficos, quienes le hablaron con rostros graves: la aparición del dragón rojo era un mal augurio. Se avecinaban tiempos oscuros, y ella tendría un papel importante en lo que estaba por venir.",
+
+        "En la habitación más alta de la posada, Niels permanecía en silencio. El paladín acariciaba a su pequeño pájaro, Fabián, mientras el peso de la batalla se hacía carne en su pecho. Había sobrevivido, sí, pero no sin dejar atrás una sombra de remordimiento. Irn cayó, Merino estuvo a punto de ser arrebatado, Wipp enfrentó sola el peligro. Fue entonces cuando Bjarke, su espectro personal, volvió a manifestarse entre las sombras para burlarse de él… pero esta vez, algo cambió. Un haz de luz brotó de su frente, atravesando la oscuridad y desvaneciendo la sombra con firmeza. Niels quedó solo… pero en paz.",
+
+        "Mientras tanto, Irnithin regresó al templo. Lo encontró transformado: habían erigido pequeños altares para otros dioses, no solo Njord. Observó en silencio, reflexionando. Casi todos los dracónidos con los que se había cruzado habían caído en la corrupción… ¿Era ese su destino también? Pero en su meditación, Njord le habló sin palabras, mostrándole que el camino recto no se hereda: se elige.",
+
+        "Y así amaneció el día del concilio.",
+        "Las antiguas ruinas élficas de Ljórondal volvieron a cobrar vida, al menos por un día. Aquellas piedras musgosas, testigos mudos de glorias olvidadas, recibieron ahora a todos los jarls del norte y a los héroes que habían sobrevivido a la Torre Brumosa. Sentados en un amplio semicírculo bajo un dosel de ramas entrelazadas, los asistentes escucharon cómo las dos figuras enmascaradas en el centro tomaban la palabra.",
+
+        "Revelaron su identidad con voces cargadas de siglos. Eran herederas de antiguos clanes élficos que alguna vez vivieron en ese mismo bosque, cuando las ruinas eran palacios y la luz aún brillaba sobre su pueblo. Y lo que contaron heló la sangre de todos.",
+
+        "El dragón que habían enfrentado no era un cualquiera. Su nombre era Ashardalon, también conocido como La Calamidad Roja, una bestia cuyo aliento de fuego había arrasado el norte hace mil años. Una guerra de décadas contra el norte élfico, las tierras de los gigantes en Sombranieve y todo lo que se interpusiera. Su fuego había sido tan intenso que llegó a evaporar partes del mar, creando el Paso del Draco y dejando esta senda como herida del mundo.",
+
+        "Para detenerlo, fue necesaria una alianza imposible: elfos, gigantes de escarcha y dragones metálicos. Los dragones resistieron el fuego, los gigantes destruyeron su cuerpo, y los elfos sellaron su alma en otro plano. En honor a esa victoria, se fundó una ciudad sobre el peñón donde cayó el dragón: Rocamar.",
+
+        "Pero el precio fue alto. Los gigantes desaparecieron entre las nieves, los dragones metálicos se ocultaron como guardianes élficos, y casi todos los clanes del bosque perecieron. Los hombres ocuparon estas tierras olvidadas… y la historia se transformó en mito. Sólo unos pocos elfos conservaron la verdad, y juraron evitar que Ashardalon regresara. Así nació el Culto del Dragón, formado por los esbirros que anhelaban traerlo de vuelta.",
+
+        "Hace un 100 años, Rocamar fue arrasada. Los elfos sabían que era una señal… pero ahora, con lo ocurrido en la torre, se ha confirmado: Ashardalon ha vuelto.",
+
+        "Los jarls comenzaron a discutir, incrédulos ante la magnitud de la amenaza. ¿Quién podría enfrentarse a semejante poder? Entonces, las elfas hablaron de los ases en la manga que ahora tenían. Elementos nuevos que jamás tuvieron la primera vez:",
+
+        "Un clérigo de Njord, un dios aliado desde el principio, y que ahora actuaba a través de Irn, un dracónido cromático que portaba tanto el símbolo del mar como el linaje del fuego. El último Rocamarino, Merino, que Ashardalon intentó desesperadamente capturar, lo que dejaba claro su importancia. Una alta elfa descendiente directa de las casas antiguas. En ese momento, una de las enmascaradas retiró su máscara. Su rostro era casi idéntico al de Wipp. Mientras todos murmuraban, ella lanzó un hechizo de mensaje hacia su hija perdida: 'Eres tú, hija mía. Cuánto me alegro de volver a verte.'",
+
+        "El momento se volvió aún más solemne cuando la otra figura señaló a Niels. 'Y nuestras fuentes fueron ciertas… La Dádivosa ha regresado. La antigua dríada que ayudó a sellar a Ashardalon ha elegido a su nuevo Campeón.' La frente de Niels resplandeció, justo donde la ninfa lo había besado.",
+
+        "Ante todos, se revelaron los tres caminos a seguir:",
+
+        "La Isla de las Tormentas: lugar donde el lugarteniente de Ashardalon lo traicionó, robando una poderosa reliquia. Allí habita hoy el Clan Xaxanthas, del que Irn proviene. Se teme que Ashardalon quiera recuperarla.",
+
+        "Sombranieve: territorio de los gigantes, donde el rey elfo que selló la alianza guardaba la Concha de las Tempestades. Ahora en manos del Culto. Ashardalon fue visto volando hacia allí.",
+
+        "Las Ruinas de Rocamar: reclamadas ahora por el dragón como su guarida y sede del Culto. Allí, los elfos creen que se esconde un arma secreta que debe ser destruida cuanto antes.",
+
+        "Ante estas revelaciones, los héroes eligieron sus sendas: Irn, Wipp, Merino y Niels partirían hacia la Isla de las Tormentas. Darius el Manonegra, semiorco del norte, se dirigió a Sombranieve, con la esperanza de reavivar la alianza con los gigantes.  Bastian y Gillian partieron hacia las Ruinas de Rocamar. Lilly Cordiplata pidió tiempo… quizá para decidir, o quizá para trazar su propio camino.",
+
+        "Así, el concilio terminó. No con una conclusión clara, sino con un propósito compartido: la guerra por el alma del norte acababa de comenzar."
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Hacia la isla de tormentas",
+      "tags": [
+        "IslaDeTormentas",
+        "IrnElegido",
+        "Njord",
+        "Piratas",
+        "Tumbalobos",
+        "Clepi",
+        "Cumcha",
+        "Emboscada",
+        "Criptoconchas"
+      ],
+      "description": "Nuestros héroes se lanzan a la mar rumbo a la Isla de Tormentas, guiados por una revelación divina y un nuevo destino. El océano guarda secretos, enemigos y recuerdos. Bajo la vela de un barco sagrado, la leyenda navega hacia su próximo capítulo.",
+      "content": [
+        "Antes del alba, mientras el mundo aún dormía, Njord, el dios de las mareas y los secretos oceánicos, se presentó en sueños ante Irn. Le habló no con voz, sino con el rumor del oleaje y el rugido de una tormenta lejana.",
+        "—Tú eres mi elegido, dijo, y con esa elección vinieron tres dones:",
+
+        "El control del barco-templo, una embarcación sagrada de velas iridiscentes y mástil tallado con runas antiguas.",
+
+        "La percepción marina, una sensibilidad sobrenatural al mar, sus peligros y sus caminos ocultos.",
+
+        "Y unas criptoconchas—reliquias mágicas que solo revelan su poder a quien honra el océano. Por último, Njord le mostró un tridente ritual sellado en la propia Isla de las Tormentas. Para reclamarlo, primero habría que encontrarlo.",
+
+        "Así, tras las despedidas en Kar’Oyas, los héroes partieron. El barco-templo, majestuoso y cubierto de símbolos del dios del mar, fue bautizado con una sonrisa por su extraña silueta: la Cumcha.",
+
+        "Durante los primeros días de travesía, la bruma fue suave, las olas amables. Pero el mar siempre recuerda. A mitad del camino, flotando a la deriva, encontraron los restos semihundidos de un navío. Lo reconocieron al instante: era el barco de Clepi, el pirata que fue como un padre para Irn, y compañero de travesía de Wipp. Las velas rasgadas, la cubierta destruida… todo hablaba de un ataque reciente.",
+
+        "Siguiendo la pista, llegaron a un pequeño archipiélago asolado por piratas. La bandera que flameaba sobre sus mástiles era desconocida… pero los isleños confirmaron el nombre que los ligaba al miedo: Tumbalobos.",
+        "Un nuevo capitán que había unificado a las bandas piratas bajo su mando, saqueando no por oro… sino por comida y prisioneros. En la bodega del barco enemigo, Wipp encontró montones de alimentos, algunos ya podridos. Este no era un saqueo común, era una campaña de hambruna.",
+
+        "Tras la batalla y la gratitud de los isleños —quienes organizaron una festiva noche de canto, fuego y mariscos—, la Cumcha zarpó al amanecer.",
+
+        "Más adelante, vieron marineros sobre unas rocas, ondeando con urgencia. Llevaban los colores de Clepi. Pero los héroes ya habían aprendido a no fiarse de los símbolos. Con razón. Era una emboscada.",
+
+        "Los enemigos usaban enormes ballestas montadas sobre las rocas para disparar arpones que sujetaban la Cumcha, evitando su huida. Se inició un brutal abordaje. Las olas se tiñeron de sangre. Pero el viento y la fe estaban con los héroes.",
+
+        "Una vez derrotados los piratas, inspeccionaron las formaciones rocosas. Allí, oculta por añosas algas y espuma, una entrada secreta les esperaba. Oscura, húmeda, con olor a sal y traición.",
+        "Atravesando la entrada secreta oculta en las rocas, los héroes descendieron por una grieta salada, húmeda y oscura, hasta toparse con una sala ceremonial olvidada por el tiempo. Allí, dos estatuas imponentes flanqueaban una figura flotante de un Espectador —una aberración de múltiples ojos, heredera lejana de los beholders.",
+
+        "—Resuelve mi acertijo, o enfréntate a la piedra viviente, declaró la criatura, con un tono que combinaba la burla con la amenaza.",
+
+        "El acertijo fue planteado… pero la solución escapó a los héroes. Niels, sin tiempo para juegos, atacó. Las estatuas cobraron vida, animadas por magia antigua, y se lanzó una feroz batalla en la sala de piedra.",
+
+        "Piedra contra carne. Rayo contra garra. Finalmente, la victoria fue suya.",
+
+        "Explorando los escombros, Wipp detectó que una de las paredes tenía una textura extraña, casi líquida. Al tocarla, reveló su naturaleza: una ilusión. Tras ella, un estrecho pasillo les esperaba.",
+
+        "En silencio, Merino se volvió invisible, avanzando primero. El resto del grupo mantuvo la guardia… hasta que una figura inesperada apareció.",
+
+        "Un goblin mugriento, empujando una carretilla llena de carne cruda y huesos. El hedor era insoportable. El goblin levantó la mirada, suspiró con fastidio y dijo:",
+        "—¡Quitaros de en medio!",
+
+        "Los héroes se miraron entre sí, con las armas medio alzadas, sin saber si estaban ante un enemigo... o simplemente el trabajador más desafortunado del inframundo.",
+        "Siguiendo al goblin de la carretilla, nuestros héroes llegaron a una sala macabra, donde goblins, piratas y osgos descarnaban cuerpos como si fueran reses, bajo el estricto control de los capataces orcos. Allí conocieron a Fernando, un goblin sorprendentemente lúcido, que animaba a los suyos a sindicalizarse y romper las cadenas de la servidumbre. Su pequeño levantamiento fue sofocado rápidamente con gritos y golpes.",
+
+        "Un orco, creyendo que los héroes eran nuevos reclutas, los mandó a buscar más carne. En ese trayecto, se ganaron la confianza de Fernando, quien prometió ayudarles a cambio de escapar.",
+
+        "Mientras tanto, Merino, invisible, se deslizaba por la fortaleza y halló la gran sala del horror: una cueva marina donde un colosal gigante pirata —parche, pata de palo y todo— daba órdenes entre gruñidos ininteligibles, traducidos por un aarakocra-loro. A sus pies, Clepi, encadenado y brutalmente herido, apenas respiraba.",
+
+        "El caos comenzó con un simple hechizo de Merino: ilusiones menores que hicieron parecer que dos piratas insultaban a Tumbalobos. Los gritos, las negaciones, el pánico. Y luego, la brutal ejecución caníbal del gigante. El terror se sembró. Era el inicio de su caída.",
+
+        "Merino encontró de nuevo al grupo y juntos idearon un plan maestro de infiltración: Merino, disfrazado de jefe pirata, ordenó a los demás cargar cajas. Mientras llegaban, los héroes los eliminaban uno a uno y se disfrazaban de ellos. Así, poco a poco, vaciaron la guarida desde dentro.",
+
+        "Cuando creyeron haberlo logrado todo, vieron las celdas. Y en ellas, los antiguos compañeros de Irn —marineros del barco de Clepi, ahora convertidos en mercantes— y descubrieron que Clepi seguía vivo, encadenado por Tumbalobos, quien lo consideraba un traidor.",
+
+        "Se organizaron: ruido para distraer, Wipp invisible para liberar a Clepi... pero el plan casi falla. Al perder la invisibilidad, Wipp fue vista, y Tumbalobos se lanzó hacia ella. Clepi se interpuso, pero su acto de sacrificio permitió ganar tiempo. Con movimientos veloces y magia precisa, todos escaparon a la nave pirata robada, llevándose incluso a Fernando.",
+
+        "Esa noche, la venganza llegó. Con las ballestas robadas, asediaron a Tumbalobos desde el mar, y tras un combate feroz bajo el rugir de las olas, el gigante cayó. El devorador de carne fue tragado por la furia de los héroes.",
+
+        "Con la victoria asegurada, Clepi, aún débil pero agradecido, se unió a la tripulación de la Cumcha. Fernando, el goblin sindicalista, se convirtió en el próximo camarero de la Trucha Ahogada, prometiendo que nunca más volvería a ser un esclavo de los piratas.",
+
+        "Mientras el sol se ponía en el horizonte, los héroes contemplaron el mar abierto. La Isla de Tormentas les esperaba, y con ella, nuevos desafíos y misterios por descubrir."
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Sombras sobre la Isla de las Tormentas",
+      "tags": [
+        "DungeonsAndDragons",
+        "RelatoDeCampaña",
+        "AventuraNáutica",
+        "IslaDeLasTormentas",
+        "ClanesDracónidos",
+        "Exploración"
+      ],
+      "description": "Durante una tormenta brutal en altamar, nuestros héroes sobreviven gracias al coraje, la fe y una balada electrizante. Tras llegar a la misteriosa Isla de las Tormentas, comienzan a descubrir un sistema de castas, secretos enterrados y señales de algo más oscuro moviéndose en las sombras. La búsqueda apenas comienza.",
+      "content": [
+        "La travesía hacia la Isla de las Tormentas fue tan épica como su destino. Una tormenta salvaje, cargada de rayos, viento y furia, azotó el navío mientras surcaba las aguas embravecidas. Merino de Rocamar, desafiante como siempre, se amarró al mascarón de proa y entonó una balada de rock vibrante, aprovechando cada rayo como percusión divina, infundiendo coraje a la tripulación.",
+        "Mientras tanto, Irnithin del Clan Xaxanthas, fiel a Njord y señor de las tormentas, luchaba junto a Clepi por mantener el barco a flote. La situación fue crítica cuando Fernando, el nuevo camarero goblin, casi fue tragado por las olas. Wipp, rápida y decidida, logró rescatarlo, aunque estuvo a punto de caer al mar ella misma. Por suerte, Niels, el paladín de Thorm, la sostuvo en el último instante.",
+        "Tras sobrevivir al vendaval, la silueta de la isla se dibujó entre la bruma: una gran montaña en el centro, coronada por nubes, con una ciudad de casas blancas protegida por una muralla que parecía impenetrable. A lo largo de la costa, pequeños pueblos de pescadores daban la bienvenida, mientras el resto del perímetro quedaba custodiado por escarpados acantilados.",
+        "Antes de desembarcar, Clepi se despidió. La Isla de las Tormentas no recibe bien a los antiguos piratas, y él, junto con los suyos, puso rumbo contrario con el barco que habían robado en una partida anterior.",
+        "Gracias a los contactos del mercader Pierre Bouquet de Longchamp, el grupo pasó las aduanas junto a otros comerciantes. Allí descubrieron el rígido sistema de castas: los dracónidos plateados del Clan Xaxanthas en la cúspide, seguidos por los de cobre del Clan Marzas y, al final, los de oropel del Clan Karthas. Merino, disfrazado de joven dracónido plateado, pasó sin problemas, a diferencia de Irn, cuyo linaje azul generó sospechas. Aunque le permitieron el paso, el prejuicio era palpable. Lo que habían escuchado en Kar’Oyas era cierto: solo los dracónidos metálicos son bienvenidos en esta tierra.",
+        "Una vez en Puerto de Coralina, el grupo dejó a Eric y Fernando al cuidado de la Cumcha, y se dividieron para reunir información.",
+        "Wipp se acercó a los muros de la ciudad. Altos, reforzados y patrullados, resultaban impenetrables. En su vigilancia, escondida entre árboles, vio a dos dragones cromáticos conversando en secreto. Intentó seguirlos, pero en un instante desaparecieron sin dejar rastro.",
+        "Irn, motivado por un deseo personal, trató de encontrar a su hermana perdida. Al pasar por la Aldea de las Perlas, un callejón le llevó a una emboscada: un guardia corrupto intentó agredirlo, pero fue salvado por Grevak, un dracónido azul que lo confundió con parte de un grupo llamado “Los Hijos Bastardos”. Aunque confundido, Irn recibió la oferta de contactar con ellos en el Pueblo de Bruma Salada si alguna vez lo necesitaba.",
+        "Niels, por su parte, buscó pistas sobre la reliquia de Ashardalon. En un templo con forma de concha asistió a un rito en dracónido, del cual entendió poco, pero captó palabras clave. Al hablar con el clérigo, descubrió que la isla fue fundada por un dracónido azul, llamado El Fundador, devoto de Njord. Este construyó el templo principal, hoy regido por una orden de dracónidos de oro en clausura, y luego desapareció en el mar dejando sus enseñanzas escritas. El clérigo, de bronce y hospitalario, se mostró amable con los extranjeros, aunque la frialdad de Niels frustró su intento de conseguir una copia de las escrituras.",
+        "Merino quiso sondear el pulso de la isla y su mercado negro. En la taberna de la Aldea de las Perlas, se cruzó con una dracónida roja que fingía ser su fan, y luego se infiltró entre un grupo de adolescentes dracónidos plateados de fiesta. Allí se enteró de que el líder del Clan Marzas había muerto, y su joven heredero era considerado débil por algunos miembros. La charla se vio interrumpida cuando un incendio comenzó en las cocinas. Un cocinero herido gritaba por su brazo quemado, mientras el resto lo increpaba. Merino, en ese instante, sintió una presencia misteriosa que se alejaba, deslizándose hacia la puerta trasera."
+      ]
+    },
+    {
+      "id": 19,
+      "title": "La isla de Tormentas. Espinas entre Sombras y Taqueros",
+      "tags": [
+        "DungeonsAndDragons",
+        "RelatoDeCampaña",
+        "IslaDeLasTormentas",
+        "MafiaDracónida",
+        "Diablos",
+        "CombateTaberna"
+      ],
+      "description": "Nuestros héroes descubren conexiones peligrosas en la taberna local y se topan con una amenaza infernal oculta tras una puerta vigilada por kobolds ilusorios. Entre amenazas de la mafia y aroma a tacos orcos, el misterio se intensifica.",
+      "content": [
+        "Reunidos nuevamente en la taberna, los héroes compartieron la información recogida por separado. Sin embargo, algo en la cocina captó su atención. Mientras unos distraían al camarero principal, otros escuchaban atentamente la discusión entre los fogones.",
+        "El joven cocinero había pedido dinero prestado a los Hijos Bastardos y, al retrasarse en el pago, la dracónida roja que anteriormente había hablado con Merino le había quemado el brazo como advertencia, exigiéndole el doble del dinero.",
+        "El camarero intentaba disimularlo, presentándolo como un accidente para calmar a los clientes. Nuestros héroes, sin perder tiempo, se hicieron pasar por miembros de los Hijos Bastardos para sonsacar más información. El muchacho reveló que quería comprar unas frutas carísimas para su novia a un mercader, pero al no poder devolver el dinero, fue castigado. Les compartió el nombre del jefe: Don Marzario, y dónde podrían encontrarlo.",
+        "Wipp, con su experiencia en los bajos fondos, aprovechó para darle el dinero necesario en secreto, indicándole que hablase bien de ellos ante Don Marzario. Sabía que esos gestos podían significar la diferencia entre un favor o una venganza futura.",
+        "Más tarde, nuestros aventureros pasearon entre los puestos de los mercaderes, instalados en la calle esa noche como parte de los festejos del Día del Fundador. Entre ellos destacaban los Ortacos, un puesto de taqueros semiorcos amigables que les regalaron salsa picante y prometieron visitar Kar’Oyas tras las celebraciones.",
+        "Al volver a la taberna, Niels sintió un olor nauseabundo y familiar: el hedor de los diablos. Guiado por su instinto, subió las escaleras seguido de sus compañeros. En la última planta encontraron a dos kobolds custodiando una puerta. Pese a su actitud no violenta, emanaban un fuerte olor infernal.",
+        "Irn detectó una poderosa magia de ilusión en los kobolds. Aquello bastó para que Niels, sin vacilar, desatara su justicia celestial. Los kobolds resultaron ser diablos de espinas, y una feroz batalla estalló entre llamas y astillas.",
+        "Durante el combate, parte del mobiliario se incendió, pero Merino apagó las llamas con su látigo de agua antes de que se propagaran. Con los diablos vencidos, se escucharon pasos apresurados subiendo por las escaleras.",
+        "La atención del grupo se centró entonces en la puerta que los diablos custodiaban. ¿Qué protegían estas criaturas infernales? ¿Qué secreto se oculta tras esa entrada cerrada en lo alto de la taberna?"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "La isla de Tormentas. Ojos de Tiza y Sombras en el Espejo",
+      "tags": [
+        "DungeonsAndDragons",
+        "CultoDelDragón",
+        "IslaDeLasTormentas",
+        "EspejoMágico",
+        "Transformación",
+        "Infiltración"
+      ],
+      "description": "Nuestros héroes se enfrentan a un misterio mágico en la taberna y descubren la presencia activa del Culto del Dragón en la isla. Tras una transformación inesperada y una batalla infernal, deben decidir su próximo movimiento antes de que sea demasiado tarde.",
+      "content": [
+        "Mientras Merino y Niels corrieron escaleras abajo para interceptar a quien subía, Irn y Wipp aprovecharon para forzar la puerta custodiada por los diablos. Subieron dos guardias acompañados por el joven cocinero. Uno de los guardias era el mismo con el que Irn había tenido un altercado por la mañana y se mostró igual de hostil.",
+        "Merino, sabiendo que una pelea con la autoridad solo les traería problemas, improvisó una escena con Niels: fingió ser su pareja y que todos los ruidos eran producto de sus juegos privados. Niels, algo desconcertado, siguió el juego y el cocinero, en agradecimiento por la ayuda previa, confirmó la historia como verdadera. Así, los guardias se marcharon.",
+        "Mientras tanto, Wipp logró abrir la puerta, revelando una habitación completamente a oscuras con las cortinas cerradas. En la pared había un ojo dibujado con tiza, que se abría y cerraba intermitentemente, inspeccionando la estancia. Wipp aprovechaba los momentos en que el ojo se cerraba para desactivar trampas y esconderse bajo la cama o alfombra cuando se abría.",
+        "En uno de los momentos en que el ojo se cerró, Wipp descubrió un espejo que no reflejaba la habitación, sino una fortaleza de piedra. Desde el fondo surgió un caballero sombrío con ojos rojos que gritó y se lanzó hacia ella. Al golpear el espejo, la figura se desvaneció en humo. Irn entró justo entonces, alarmado por el grito de Wipp.",
+        "Cansado de esperar, Niels también entró, justo cuando el ojo de tiza se abrió de nuevo. La pupila mágica les siguió con atención. Wipp, con rapidez, lo borró con la mano, pero sabían que probablemente ya habían sido vistos.",
+        "En la sala encontraron componentes mágicos que Irn identificó como parte de un hechizo de teletransporte. También había plumas, pergaminos, pero sin información relevante. Wipp notó algo dentro del armario: un gato que se lanzó hacia ella y quedó atrapado en una de las trampas de la alfombra.",
+        "Merino entró poco después y, usando su anillo para hablar con animales y un trato impecable, calmó al felino. El gato les reveló que su dueño era un miembro del Culto del Dragón, que usaba el espejo para comunicarse con otros miembros, y que se había teletransportado esa misma mañana y no había vuelto. Aunque el gato pidió irse con ellos, Merino prefirió dejarlo allí, por precaución.",
+        "Los héroes envolvieron el espejo en una manta para evitar que alguien los espiara y decidieron llevárselo. En el armario, Wipp encontró una pequeña caja sellada. Al abrirla sin cuidado, una maldición la transformó en una rana humanoide. Sin embargo, dentro halló tres cartas reveladoras de miembros del Culto del Dragón.",
+        "Los mensajes hablaban de criaturas disfrazadas de kobolds, un piso franco en la ciudad, y un misterioso capitán Tumbalobos buscando desesperadamente a un capitán pirata para devorarlo. La amenaza era real y cercana.",
+        "Con el espejo a cuestas y Wipp convertida en rana, salieron de la taberna. Por el camino, desde el espejo se escuchó la voz de un hombre preguntando qué había pasado, pero decidieron no responder.",
+        "Al llegar a la Cumcha, Eric les informó que Fernando había ido a buscar comida y no había regresado. Se sorprendió al ver a Wipp transformada, pero tras explicar lo ocurrido, les ofreció algo de comida para descansar. Ataron el espejo con una cuerda y lo lanzaron al mar, esperando idear una mejor forma de usarlo.",
+        "Las conclusiones eran claras: el Culto del Dragón está presente en la isla, ya ha infiltrado la ciudad, y va tras la reliquia. Tienen un aliado intramuros y deben actuar rápido. Su siguiente destino: el pueblo de Bruma Salada, donde buscarán una forma de infiltrarse en la ciudad antes de que sea demasiado tarde."
       ]
     }
   ],
