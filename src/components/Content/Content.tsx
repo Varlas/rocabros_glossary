@@ -9,7 +9,7 @@ interface Props {
   option: Option;
 }
 
-type Option = 'AVENTURAS' | 'PERSONAJES';
+type Option = 'AVENTURAS' | 'PERSONAJES' | 'LUGARES';
 
 const Content = ({ selectedId, list: listBulk, option }: Props) => {
   /**
@@ -26,6 +26,19 @@ const Content = ({ selectedId, list: listBulk, option }: Props) => {
       ? list.filter((item) => item.id === selectedId)[0]
       : null;
 
+  switch (option) {
+    case 'AVENTURAS':
+      <Session content={contentToShow as Adventure} />;
+      break;
+    case 'PERSONAJES':
+      <Character content={contentToShow as NPC} />;
+      break;
+    case 'LUGARES':
+      // Aquí podrías agregar un componente para lugares si lo necesitas
+      break;
+    default:
+      return <DefaultTemplate />;
+  }
   // Si existe un id seleccionado y el contenido a mostrar es verdadero, se muestra el contenido
   return selectedId && contentToShow ? (
     option === 'AVENTURAS' ? (

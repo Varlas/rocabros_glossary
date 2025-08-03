@@ -1,7 +1,7 @@
 import './NavBar.css';
 
 interface Props {
-  onOptionClick: (option: 'AVENTURAS' | 'PERSONAJES') => void;
+  onOptionClick: (option: 'AVENTURAS' | 'PERSONAJES' | 'LUGARES') => void;
 }
 
 const NavBar = ({ onOptionClick }: Props) => {
@@ -10,6 +10,7 @@ const NavBar = ({ onOptionClick }: Props) => {
       <ul>
         <li onClick={() => onOptionClick('AVENTURAS')}>AVENTURAS</li>
         <li onClick={() => onOptionClick('PERSONAJES')}>PERSONAJES</li>
+        <li onClick={() => onOptionClick('LUGARES')}>LUGARES</li>
       </ul>
     </div>
   );

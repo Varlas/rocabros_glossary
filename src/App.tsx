@@ -7,7 +7,7 @@ import info from './info.json';
 import { Info } from './types/types';
 
 function App() {
-  type Option = 'AVENTURAS' | 'PERSONAJES';
+  type Option = 'AVENTURAS' | 'PERSONAJES' | 'LUGARES';
   const [selectedId, setSelectedId] = useState<number | null>(null);
   const [showLateralMenu, setShowLateralMenu] = useState<boolean>(false);
   const [option, setOption] = useState<Option>('AVENTURAS');
