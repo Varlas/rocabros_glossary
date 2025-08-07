@@ -1,11 +1,12 @@
 import './Content.css';
 import DefaultTemplate from '../DefaultTemplate/DefaultTemplate';
-import { Adventure, NPC } from '../../types/types';
+import { Adventure, NPC, Places } from '../../types/types';
 import Session from '../Session/Session';
 import Character from '../Character/Character';
+import Place from '../Place/Place';
 interface Props {
   selectedId: number | null;
-  list: Adventure[] | NPC[] | null;
+  list: Adventure[] | NPC[] | Places[] | null;
   option: Option;
 }
 
@@ -26,29 +27,20 @@ const Content = ({ selectedId, list: listBulk, option }: Props) => {
       ? list.filter((item) => item.id === selectedId)[0]
       : null;
 
+  if (!selectedId || !contentToShow) {
+    return <DefaultTemplate />;
+  }
+
   switch (option) {
     case 'AVENTURAS':
-      <Session content={contentToShow as Adventure} />;
-      break;
+      return <Session content={contentToShow as Adventure} />;
     case 'PERSONAJES':
-      <Character content={contentToShow as NPC} />;
-      break;
+      return <Character content={contentToShow as NPC} />;
     case 'LUGARES':
-      // Aquí podrías agregar un componente para lugares si lo necesitas
-      break;
+      return <Place content={contentToShow as Places} />;
     default:
       return <DefaultTemplate />;
   }
-  // Si existe un id seleccionado y el contenido a mostrar es verdadero, se muestra el contenido
-  return selectedId && contentToShow ? (
-    option === 'AVENTURAS' ? (
-      <Session content={contentToShow as Adventure} />
-    ) : (
-      <Character content={contentToShow as NPC} />
-    )
-  ) : (
-    <DefaultTemplate />
-  );
 };
 
 export default Content;

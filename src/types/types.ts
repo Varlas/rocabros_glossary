@@ -38,4 +38,4 @@ interface ContentProps {
   list: Array<Adventure | NPC>;
 }
 
-export type { Adventure, NPC, Info, ContentProps };
+export type { Adventure, NPC, Info, ContentProps, Places };

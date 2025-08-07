@@ -1,9 +1,9 @@
 import './SidePanel.css';
-import { Adventure, NPC } from '../../types/types';
+import { Adventure, NPC, Places } from '../../types/types';
 import React, { useState } from 'react';
 interface Props {
   onMenuClick: (id: number) => void;
-  list: Adventure[] | NPC[];
+  list: Adventure[] | NPC[] | Places[];
 }
 
 const SidePanel = ({ onMenuClick, list }: Props) => {
