@@ -866,7 +866,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 10,
       "title": "Gillian",
       "race": "humana (druida con capacidad de transformación, luego renacida como lince albino)",
       "tags": [
@@ -906,7 +906,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "Throrgrim",
       "race": "humano",
       "tags": ["hermano", "clan", "transformado", "oso", "hechizo"],
@@ -918,7 +918,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 12,
       "title": "Pierre Bouquet de Longchamp",
       "race": "Humano",
       "tags": ["mercader", "Waterdeep", "aventurero", "noble", "contratista"],
@@ -931,7 +931,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 13,
       "title": "Purri Gruntz",
       "race": "Goblin",
       "tags": ["goblin", "coqueta", "Cacotriz Tartamuda"],
@@ -943,7 +943,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 14,
       "title": "Princesa Elfa (Banshee)",
       "race": "Elfa espectral",
       "tags": ["fantasma", "princesa", "tragedia", "castillo", "maldición"],
@@ -957,7 +957,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 15,
       "title": "Fabián",
       "race": "Ave parlante",
       "tags": ["animal compañero", "pájaro", "familiar", "aliado de Niels"],
@@ -969,7 +969,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 16,
       "title": "Mago Oveja",
       "race": "Elfo",
       "tags": ["oveja", "mago", "elfo", "poliformación", "víctima"],
@@ -982,7 +982,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 17,
       "title": "Gruntz",
       "race": "Orco",
       "tags": ["orco", "lobos", "cadenas", "enemigo", "arrepentido"],
@@ -995,7 +995,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 18,
       "title": "Aprendiz del Mago Oveja",
       "race": "Humano",
       "tags": ["aprendiz", "mago", "traidor", "wyvern", "enemigo"],
@@ -1008,7 +1008,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 19,
       "title": "Thrath el Destructor de Imperios",
       "race": "Osgo",
       "tags": ["osgo", "destructor", "imperios", "líder", "goblins"],
@@ -1022,7 +1022,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 20,
       "title": "Gunnar",
       "race": "humano",
       "tags": [
@@ -1045,7 +1045,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 21,
       "title": "Jefe Bjarke",
       "race": "Humano",
       "tags": ["Bjarke", "bandido", "villano", "pasado", "sombra"],
@@ -1057,7 +1057,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 22,
       "title": "Rothbank",
       "race": "Semidragón",
       "tags": ["Rothbank", "dragón", "maldición", "bestia", "enemigo"],
@@ -1070,7 +1070,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 23,
       "title": "El Clarividente",
       "race": "desconocida (aparenta ser humano, pero su verdadera naturaleza es incierta)",
       "tags": [
@@ -1101,7 +1101,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 24,
       "title": "Duradel",
       "race": "dracónido negro",
       "tags": [
@@ -1122,7 +1122,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 25,
       "title": "Hiks",
       "race": "kobold",
       "tags": [
@@ -1143,7 +1143,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 26,
       "title": "Bruni, Breni, Broni y Piggy",
       "race": "Enanos",
       "tags": ["enanos", "aventureros", "cazatesoros", "cerda", "cerdita"],
@@ -1156,7 +1156,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 27,
       "title": "Darius el Manonegra",
       "race": "Semiorco",
       "image": "archer.png",
@@ -1180,7 +1180,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 28,
       "title": "Lilly Cordiplata",
       "race": "Humano",
       "tags": [
@@ -1204,7 +1204,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 29,
       "title": "Sif la herrera",
       "race": "Humana",
       "tags": ["kar’oyas", "bar", "herrera", "mujer"],
@@ -1216,7 +1216,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 30,
       "title": "Sof el herrero",
       "race": "Humano",
       "tags": ["kar’oyas", "herrero", "Sif", "látigo"],
@@ -1227,7 +1227,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 31,
       "title": "Bjorn",
       "race": "Goliatt",
       "tags": ["kar’oyas", "bar", "camarero", "alto", "vikingo"],
@@ -1240,7 +1240,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 32,
       "title": "Mirelvel",
       "race": "Alta Elfa",
       "tags": ["alta elfa", "madre", "wipp"],
@@ -1267,7 +1267,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Taberna de Lars",
       "type": "taberna",
       "tags": ["Kar'Oyas", "rumores", "alcohol", "información"],
@@ -1279,7 +1279,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 3,
       "title": "Taberna elegante de Daggerfall",
       "type": "taberna",
       "tags": [
@@ -1301,7 +1301,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "Puerto de Daggerfall",
       "type": "puerto",
       "tags": [
@@ -1322,7 +1322,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "Guarida del Culto del Dragón",
       "type": "guarida subterránea",
       "tags": ["culto", "dragón", "kobolds", "Duradel", "rituales", "celdas"],
@@ -1337,7 +1337,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 6,
       "title": "Ruinas élficas (castillo maldito)",
       "type": "Castillo en ruinas",
       "tags": [
@@ -1373,7 +1373,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 8,
       "title": "Tormleif",
       "type": "Ciudad",
       "tags": ["Tormleif", "ciudad", "templo", "paladines"],
@@ -1385,7 +1385,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 9,
       "title": "Ermita de Torm",
       "type": "Edificación religiosa",
       "tags": ["Ermita", "Torm", "pruebas", "sagrado", "montaña"],
@@ -1397,7 +1397,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 10,
       "title": "La Cacotriz Tartamuda",
       "type": "Taberna",
       "tags": [
