@@ -2,6 +2,8 @@ body {
   margin: 0;
   padding: 0;
   background-image: url('./assets/fondo_papel2.jpg');
+  background-size: cover;
+  background-attachment: fixed;
   color: #333;
   line-height: 1.6;
   font-size: 1.2rem;
@@ -11,7 +13,6 @@ h1,
 h2,
 h3 {
   font-family: 'Platypi', serif;
-  font-optical-sizing: auto;
   font-style: normal;
   color: #003f18;
 }
@@ -24,5 +25,13 @@ h3 {
 
 .content {
   display: flex;
-  height: 95%; /* Ajusta la altura según tus necesidades */
+  height: calc(100% - 60px);
+}
+
+@media (max-width: 768px) {
+  .content {
+    flex-direction: column;
+    height: auto;
+    padding-bottom: 60px; /* espacio para navbar fija */
+  }
 }
