@@ -731,14 +731,15 @@
       "description": "Hombre anciano de complexión robusta aunque venida a menos por la edad. Sus ojos, aunque cansados, conservan el brillo de un guerrero experimentado. Lleva una barba gris descuidada y viste aún con ropajes de batalla.",
       "tagline": "Jarl del clan Gark, padre de Girk y símbolo de autoridad en Kar'Oyas.",
       "content": [
-        "El jefe del clan Gark, Gork El Puño, llamó a varios héroes para que lo ayudaran a encontrar a su hijo desaparecido, Girk.",
-        "Apodado El Puño por el fuego interior que desprendía en la batalla. Ahora estaba débil, viejo y frágil.",
-        "Fue informado por Bastian, un agente doble entre los bandidos, sobre las actividades de su hijo y los traidores dentro de su propio entorno."
+        "Cuando su hijo Girk desapareció, el viejo jarl del clan Gark, Gork El Puño, reunió a un grupo de héroes para seguir su rastro. En Kar’Oyas, el pueblo que gobernaba desde hacía años tras la caída del clan Hella, confió en extraños para que hicieran lo que sus fuerzas ya no le permitían.",
+        "Apodado El Puño por el ardor con que combatía en su juventud, Gork era ahora un hombre debilitado por la edad, pero aún respetado como símbolo de autoridad. Con la ayuda de aquellos aventureros descubrió secretos dolorosos: que su hijo mantenía lazos con Helga, la heredera perdida de los Hella, y que su propio consejero, el druida Dûnn, había estado envenenándolo y conspirando contra él.",
+        "Tras la caída de Dûnn y la liberación de Girk, la paz parecía haber regresado, pero años después nuevas traiciones golpearon su casa. En la ceremonia de madurez de su hijo, el joven fue apuñalado por Thorgrim, su mejor amigo, y Kar’Oyas ardió bajo el ataque de los Hella. El golpe final llegó cuando Astrid, su guardaespaldas y consejera en quien más confiaba, se reveló como la hija perdida del clan enemigo y lideró la rebelión.",
+        "Aunque los héroes salvaron el pueblo, la esposa de Gork pereció en la lucha. Abrumado por la tragedia y consciente de su fragilidad, el anciano jarl decidió abdicar en favor de Girk, confiando el futuro del clan a la nueva generación. Su nombre, sin embargo, quedó ligado para siempre a las luchas de Kar’Oyas y a la sangre derramada entre clanes."
       ]
     },
     {
       "id": 2,
-      "title": "Girk",
+      "title": "Girk, el nuevo Jarl",
       "race": "humano",
       "tags": [
         "hijo",
@@ -751,48 +752,51 @@
       "description": "Joven de porte valeroso, desaparecido y posteriormente encontrado bajo un hechizo. Inteligente, rebelde y enamorado.",
       "tagline": "Hijo del Jarl Gork, desaparecido misteriosamente y relacionado con Helga.",
       "content": [
-        "Desaparecido misteriosamente, su pista llevó a los héroes hasta Kar’Oyas.",
-        "Sus aposentos contenían cartas de amor en clave dirigidas a una tal Helga.",
-        "Fue encontrado bajo un hechizo transformado en un oso disecado por el druida Dûnn, junto a su hermano de sangre Throrgrim."
+        "Girk, hijo del Jarl Gork El Puño, desapareció sin dejar pistas, dejando a su clan preocupado. Los héroes lo buscaron hasta la aldea de Kar’Oyas, donde encontraron cartas de amor codificadas dirigidas a una joven llamada Helga, mostrando su afecto y secretos ocultos detrás de la vida diaria de la nobleza.",
+
+        "Pronto se descubrió que la causa de su desaparición fue un hechizo del druida Dûnn: tanto Girk como su hermano de batalla Thorgrim habían sido transformados en osos disecados como parte de un plan de intriga que amenazaba a su mundo. Gracias a la valentía, ingenio y ayuda de sus amigos, lograron liberarlos y enfrentar al traidor que los había atrapado.",
+        "Años después, Girk regresó a Kar'Oyas para su ceremonia de paso a la adultez. Durante la celebración, fue traicionado por su amigo Thorgrim, quien lo atacó y desató un conflicto que involucró a varios traidores del Clan Hella. Girk luchó por sobrevivir mientras nuestros heroes combatían a los enemigos y protegían a los aldeanos. Tras la batalla, vio cómo su padre abdicaba a favor de él, convirtiéndose Girk en el nuevo Jarl de Kar'Oyas. Su papel fue central, enfrentando la traición, sobreviviendo a combates y siendo el punto clave para consolidar la paz y el liderazgo en su pueblo.",
+        "Como muestra de gratitud, entregó la taberna de Lars a los héroes, quienes la renombraron 'La Trucha Ahogada' y a Merino le regaló una armadura de cuero y un escudo redondo con un soporte para su laúd."
       ]
     },
     {
       "id": 3,
-      "title": "Helga",
+      "title": "Helga, la última Hella",
       "race": "humana",
       "tags": ["amor", "Hella", "jarl", "Kar'Oyas", "resistencia"],
       "description": "Joven de fuerte carácter, supuestamente fallecida en el ataque al clan Hella. Se ha mantenido oculta y conspirando contra el nuevo orden.",
       "tagline": "Hija del antiguo Jarl Hella y amante secreta de Girk.",
       "content": [
-        "Helga era la hija del antiguo Jarl del clan Hella.",
-        "Hasta ahora, se creía que había muerto junto a su familia en el ataque del clan Gark.",
-        "Se reveló que seguía viva y colaboraba con el druida Dûnn para recuperar el poder."
+        "Helga era la hija del antiguo jarl del clan Hella, dada por muerta junto a su familia cuando el clan Gark tomó Kar’Oyas hace diez años. En secreto, sobrevivió y se convirtió en símbolo de la resistencia contra el dominio impuesto por los Gark.",
+        "Junto al druida Dûnn conspiró para recuperar el control de Kar'Oyas. Bajo el nombre de Astrid se hizo pasar por la guardaespaldas del jarl. Además, mantuvo una relación amorosa falsa con Girk, que, con la ayuda de Throgrim, les permitió secuestrarlo.",
+        "Cuando el pueblo de Kar'Oyas descubrió que seguía con vida, muchos de los ancianos aún leales al clan Hella, como Lars el tabernero, se unieron a su causa. En el combate final luchó contra nuestros héroes y se transformó en osa, pero fue derrotada, poniendo fin así a la última descendiente del clan Hella."
       ]
     },
     {
       "id": 4,
-      "title": "Dûnn",
+      "title": "Dûnn, el Druida",
       "race": "humano",
-      "tags": ["druida", "consejero", "traidor", "clan", "Kar'Oyas"],
+      "tags": ["druida", "consejero", "traidor", "clan Hella", "Kar'Oyas"],
       "description": "Hombre delgado, de mirada astuta y voz suave. Viste túnicas naturales y siempre lleva consigo un bastón tallado en madera oscura.",
-      "tagline": "Consejero del Jarl y traidor, líder en la conspiración contra el clan Gark.",
+      "tagline": "Consejero del Jarl Gork y artífice en la conspiración del clan Hella.",
       "content": [
-        "Consejero del Jarl Gork y presunto aliado de Girk y Helga.",
-        "Fue seguido hasta una cabaña en el bosque, donde se reveló como traidor.",
-        "Había estado envenenando al Jarl y orquestando el regreso del clan Hjalla.",
-        "Transformó a Girk y Throrgrim en osos disecados para ocultarlos."
+        "Consejero del Jarl Gork en Kar’Oyas, se ganó la confianza del pueblo con su aparente sabiduría y discreción. En secreto, conspiraba junto a Helga, la hija del antiguo jarl Hella, para devolver el poder a su linaje.",
+        "Fue él quien estuvo envenenando lentamente a Gork mientras orquestaba la rebelión del clan Hella desde las sombras.",
+        "Mantuvo secuestrados a Girk y a Thorgrim, transformándolos mediante magia en osos disecados.",
+        "Su traición quedó al descubierto cuando los héroes lo siguieron hasta su cabaña en el bosque, donde fue derrotado y entregado a la justicia."
       ]
     },
+
     {
       "id": 5,
-      "title": "Astrid",
+      "title": "Astrid, la Guardaespaldas",
       "race": "humana",
       "tags": ["guardaespaldas", "Kar'Oyas", "jarl", "protección"],
       "description": "Mujer alta y fornida, de cabello recogido y expresión imperturbable. Siempre al lado del Jarl, vigilante y letal.",
       "tagline": "Guardaespaldas personal de Gork, protectora silenciosa del Jarl.",
       "content": [
-        "Recibió a los héroes junto al druida Dûnn en la cabaña del Jarl.",
-        "Se mantuvo al margen de la traición interna."
+        "Guardaespaldas del Jarl Gork, conocido como El Puño. Recibió a los héroes junto al druida Dûnn en la cabaña del Jarl y se mantuvo al margen durante los sucesos relacionados con el secuestro de Girk, el hijo del jarl.",
+        "Aunque parecía ser una fiel defensora del clan Gark, en realidad era Helga disfrazada, la heredera del clan Hella que buscaba recuperar el poder en Kar’Oyas. En el combate final luchó contra los héroes y se transformó en osa, pero fue derrotada, poniendo fin a la última descendiente del clan Hella."
       ]
     },
     {
