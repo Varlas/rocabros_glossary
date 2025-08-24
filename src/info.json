@@ -807,8 +807,10 @@
       "description": "Guardia corpulento con barba trenzada y cara severa. Amante del orden y obediente a sus superiores.",
       "tagline": "Guardia de Kar'Oyas, encargado de la seguridad de la entrada al pueblo.",
       "content": [
-        "Escoltó a los héroes a la cabaña del Jarl.",
-        "Intentó detener a los héroes cuando siguieron a Dûnn fuera de las murallas, pero fue distraído con una salchicha."
+        "Junto a Paris, escoltó a los héroes hasta la cabaña del jarl Gork cuando llegaron por primera vez a Kar’Oyas.",
+        "Más tarde intentó impedir que los héroes, ebrios y cargados de salchichas, siguieran al druida Dûnn fuera de las murallas.",
+        "Tras la caída de Astrid y el nombramiento de los héroes como Protectores de Kar’Oyas, dejó su puesto en la puerta para convertirse en responsable de la seguridad de la taberna 'La Trucha Ahogada'.",
+        "Presenció el secuestro de Tintinera en los establos y dio testimonio sobre los maleantes que habían causado disturbios la noche anterior."
       ]
     },
     {
@@ -819,8 +821,9 @@
       "description": "Hombre joven de ojos brillantes y actitud amistosa. Más permisivo que su compañero Romá.",
       "tagline": "Guardia de Kar'Oyas, compañero de Romá en la puerta del pueblo.",
       "content": [
-        "También acompañó a los héroes al inicio de su visita al pueblo.",
-        "Fue sobornado con una salchicha por los héroes borrachos cuando intentó impedir que salieran del pueblo."
+        "Junto a Romá, acompañó a los héroes a la cabaña del jarl Gork en su primera visita a Kar’Oyas.",
+        "Intentó detener la salida del grupo cuando siguieron al druida Dûnn, pero fue sobornado con una salchicha.",
+        "Tras la victoria contra los traidores, asumió la administración de la taberna 'La Trucha Ahogada' y del naciente Gremio de Aventureros, organizando la inauguración y gestionando su día a día."
       ]
     },
     {
@@ -831,8 +834,11 @@
       "description": "Hombre regordete y bonachón, siempre tras la barra, sirviendo cerveza con una sonrisa y un comentario mordaz.",
       "tagline": "Tabernero de Kar’Oyas, fuente de rumores y cerveza.",
       "content": [
-        "Regenta la taberna donde los héroes obtuvieron información valiosa.",
-        "No sabía nada sobre el líder de los bandidos, pero uno de sus camareros sí conocía a Girk."
+        "En Kar’Oyas, Lars regentaba la taberna donde los héroes acudieron en busca de rumores y habladurías.",
+        "Durante la primera investigación, en su local Merino y Niels obtuvieron la pista de la cabaña donde Girk solía reunirse con Helga.",
+        "Más tarde, cuando los héroes volvieron a interrogar en la taberna, Lars no supo dar detalles sobre el líder de los bandidos, aunque uno de sus camareros sí reveló información clave.",
+        "En la última visita del grupo a Kar’Oyas, la taberna de Lars volvió a ser punto de reunión y celebración, pero allí también descubrieron la implicación de algunos habitantes en la conspiración del Clan Hella.",
+        "Finalmente, Lars se reveló como traidor, participando en la rebelión contra el jarl Gark. Fue derrotado en combate y halló la muerte durante el asalto al castillo. Nuestros héroes obtuvieron como parte de la recompensa la gestión de su taberna, a la cual renombraron La Trucha Ahogada y la convirtieron en un gremio de aventureros, siendo a día de hoy el principal gremio en los reinos del norte."
       ]
     },
     {
@@ -857,16 +863,19 @@
       "description": "Mediano de complexión robusta, con el rostro surcado por pequeñas cicatrices, cabello castaño y una mirada vivaz. De carácter ambiguo pero profundamente leal, suele mostrarse inquieto y decidido.",
       "tagline": "Espía y compañero leal, Bastián osciló entre la traición y el sacrificio en su compleja historia con los héroes.",
       "content": [
-        "Fue capturado por los héroes en una cabaña-trampa, donde se descubrió que actuaba como agente doble, informando al Jarl Gork mientras se infiltraba entre los bandidos.",
-        "Durante una visita a la Cacotriz Tartamuda, se encontró con Gillian, una antigua amiga y rival bardo de Merino. Ambos se retiraron a conversar en privado cerca de los establos, sin saber que Wipp los seguía de cerca.",
-        "Acompañó a los héroes junto a Gillian durante varias travesías.",
-        "Fue quien, con dolor, asestó el golpe final a Gillian para romper la maldición que la afligía.",
-        "Aceptó a Gillian renacida como lince albino, su nueva compañera.",
-        "Durante una noche en la taberna elegante de Daggerfall, se emborrachó junto a Niels, causando alboroto en el local.",
-        "Participó en la primera incursión contra los kobolds en el puerto de Daggerfall, donde cayó en una emboscada tendida por los artificieros.",
-        "Fue capturado junto a Irn y Wipp y encerrado en una celda en la guarida del Culto del Dragón.",
-        "Liberado posteriormente por Wipp, luchó codo a codo con sus compañeros durante la batalla en el comedor.",
-        "Participó en el enfrentamiento final contra Duradel y sus guardaespaldas, demostrando gran valentía."
+        "Bastián fue descubierto por los héroes en una cabaña trampa, donde quedó al descubierto que trabajaba como agente doble: mientras aparentaba ser un simple bandido, en realidad informaba en secreto al jarl Gork sobre sus movimientos. Desde entonces, se unió al grupo y los acompañó en numerosas aventuras.",
+
+        "En una de sus paradas en la Cacotriz Tartamuda, el mediano se reencontró con Gillian, una antigua amiga y rival del bardo Merino. Ambos se retiraron a conversar en privado cerca de los establos, sin percatarse de que Wipp los seguía sigilosamente. Poco después, Gillian y Bastián se integraron en varias de las travesías del grupo.",
+
+        "De regreso a Tormleif, durante la ceremonia en la que Niels sería proclamado paladín, la celebración se vio interrumpida cuando Gunnar y Gillian fueron secuestrados por los goblins de Thrath el Destructor de Mundos. Bastián también cayó prisionero, aunque fue liberado y no dudó en ayudar a rescatar a sus compañeros.",
+
+        "Más adelante, el grupo debió enfrentarse a Rothbank, un antiguo lugarteniente de Ashardalon, enemigo de Gillian en el pasado. Este la maldijo a una condena de enfrentamientos eternos. Fue Bastián, con pesar, quien asestó el golpe final a Gillian, pues solo de esa manera podía romperse la maldición: la muerte debía provenir de alguien distinto a los dos rivales. Tras ello, Gillian renació en la forma de un lince albino, y Bastián la aceptó sin dudar como su nueva compañera.",
+
+        "No todo fueron gestas épicas: en una ocasión, durante una noche en una elegante taberna de Daggerfall, se emborrachó junto a Niels, causando un sonado alboroto. También participó en la primera incursión contra los kobolds en el puerto de la ciudad, donde cayó en una emboscada tendida por artificieros.",
+
+        "En otra misión fue capturado junto a Irn y Wipp, encerrado en las celdas de la guarida del Culto del Dragón. Tras ser liberado por Wipp, luchó codo con codo en la batalla del comedor y participó en el enfrentamiento final contra Duradel y sus guardaespaldas, donde demostró gran valentía. Al término de aquella aventura, decidió separarse del grupo para seguir su propio camino.",
+
+        "El destino, sin embargo, quiso que volvieran a encontrarse en la Torre Brumosa, cuando Bastián acudió en la comitiva que acudió en ayuda de los héroes durante su enfrentamiento con Ashardalon. Les contó que, desde el combate contra Rothbank, había continuado investigando y se había unido a un grupo de elfos que buscaban impedir el regreso del dragón rojo. Tras la batalla, eligió marcharse con ellos hacia Rocamar, decidido a seguir indagando ahora que se sabía que Ashardalon no permanecía en su guarida."
       ]
     },
     {
@@ -894,19 +903,15 @@
       "description": "Druida humana de cabello rizado castaño claro y ojos verdes intensos. Su actitud pícara y desafiante oculta un pasado marcado por una maldición ancestral. Es capaz de transformarse en animales, siendo su forma favorita la de un gato. A pesar de su pasado trágico, es una aliada leal y poderosa.",
       "tagline": "Druida marcada por una maldición, renacida como lince albino tras un sacrificio, y aliada de los héroes en combate y sigilo.",
       "content": [
-        "Merino encontró a una rival bardo en el pequeño escenario de la Cacotriz Tartamuda y entabló con ella una batalla musical, que terminó ganando.",
-        "Después del duelo, intentó acercarse a ella, pero ella mostró más interés en Bastián, revelando que se trataba de una vieja amiga suya: Gillian.",
-        "Mientras la fiesta seguía, Gillian y Bastián se retiraron a hablar en privado cerca de los establos, sin saber que Wipp los seguía de cerca.",
-        "Fue capturada por los goblins junto con el compañero de Niels, permaneciendo prisionera en una cueva.",
-        "Bastián se alegró profundamente al reencontrarse con ella, y finalmente, tras ser rescatados, regresaron juntos a la Cacotriz Tartamuda para celebrar la victoria.",
-        "Durante un tiempo mostró una actitud extraña, con la mirada perdida y un aire constante de preocupación.",
-        "Confesó estar ligada a Rothbank por una maldición que la condenaba a enfrentarse con él en un ciclo eterno.",
-        "Decidió sacrificarse para romper el ciclo maldito, permitiendo así su renacimiento como un lince albino.",
-        "En la elegante taberna de Daggerfall, se transformó en gato para escabullirse a la cocina durante la comida.",
-        "Durante el caos causado por una ilusión de Merino, fue confundida con una bestia por Irn.",
-        "En la emboscada en la guarida, luchó junto a los héroes antes de ser abatida por los kobolds artificieros.",
-        "Fue estabilizada por un kobold médico y recuperó fuerzas a tiempo para participar en la gran batalla en el comedor contra los kobolds.",
-        "Se unió también a la ofensiva final contra Duradel y sus esbirros, demostrando su valor y versatilidad como aliada."
+        "Merino encontró a una rival bardo en el pequeño escenario de la Cacotriz Tartamuda y entabló con ella una batalla musical que terminó ganando. Tras el duelo, intentó acercarse a ella, pero Gillian, una vieja amiga de Bastián, mostró más interés en el mediano que en el propio Merino. Ambos se retiraron a conversar en privado cerca de los establos, sin darse cuenta de que Wipp los seguía sigilosamente.",
+
+        "Poco después, Gillian y Bastián compartieron varias aventuras juntos. Durante un regreso a Tormleif para la proclamación de paladín de Niels, ambos fueron capturados por los goblins de Thrath el Destructor de Mundos, mientras que Bastián logró ayudar en su liberación. Tras el rescate, regresaron juntos a la Cacotriz Tartamuda para celebrar la victoria.",
+
+        "Con el tiempo, Gillian comenzó a mostrar una actitud distante, con la mirada perdida y un aire constante de preocupación. Confesó que estaba ligada a Rothbank por una maldición que la condenaba a enfrentarse con él en un ciclo eterno. Para romperla, decidió sacrificarse, lo que permitió su renacimiento como lince albino. Bastián la aceptó de inmediato como su nueva compañera y aliada, reforzando su vínculo durante las siguientes aventuras.",
+
+        "Durante una noche en la elegante taberna de Daggerfall, Gillian se metió en las cocinas durante la comida. En medio del caos causado por una ilusión de Merino, fue confundida por Irn con una bestia, lo que añadió momentos de humor a la situación. En otra misión, se vio envuelta en una emboscada de kobolds, donde luchó junto a los héroes antes de ser abatida temporalmente por artificieros, siendo estabilizada por un kobold médico y recuperando fuerzas justo a tiempo para la gran batalla en el comedor.",
+
+        "Finalmente, Gillian participó en la ofensiva final contra Duradel y sus esbirros, demostrando su valor y versatilidad como aliada. Más tarde, junto con Bastián luchó en la Torre Brumosa durante la misión contra Ashardalon, consolidando su relación como compañeros inseparables mientras él continuaba investigando junto a los elfos para evitar el regreso del dragón rojo."
       ]
     },
     {
