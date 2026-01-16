@@ -40,7 +40,10 @@ const SidePanel = ({ onMenuClick, list }: Props) => {
             <li
               className="menu_item"
               key={aventura.id}
-              onClick={() => onMenuClick(aventura.id)}
+              onClick={() => {
+                console.log({ aventura });
+                return onMenuClick(aventura.id);
+              }}
             >
               {title}
             </li>

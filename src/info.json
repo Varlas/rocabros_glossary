@@ -826,17 +826,19 @@
     },
     {
       "id": 8,
-      "title": "Lars",
+      "title": "Lars el Tabernero",
       "race": "humano",
       "tags": ["tabernero", "Kar'Oyas", "información", "habladurías"],
       "description": "Hombre regordete y bonachón, siempre tras la barra, sirviendo cerveza con una sonrisa y un comentario mordaz.",
       "tagline": "Tabernero de Kar’Oyas, fuente de rumores y cerveza.",
       "content": [
-        "En Kar’Oyas, Lars regentaba la taberna donde los héroes acudieron en busca de rumores y habladurías.",
-        "Durante la primera investigación, en su local Merino y Niels obtuvieron la pista de la cabaña donde Girk solía reunirse con Helga.",
-        "Más tarde, cuando los héroes volvieron a interrogar en la taberna, Lars no supo dar detalles sobre el líder de los bandidos, aunque uno de sus camareros sí reveló información clave.",
-        "En la última visita del grupo a Kar’Oyas, la taberna de Lars volvió a ser punto de reunión y celebración, pero allí también descubrieron la implicación de algunos habitantes en la conspiración del Clan Hella.",
-        "Finalmente, Lars se reveló como traidor, participando en la rebelión contra el jarl Gark. Fue derrotado en combate y halló la muerte durante el asalto al castillo. Nuestros héroes obtuvieron como parte de la recompensa la gestión de su taberna, a la cual renombraron La Trucha Ahogada y la convirtieron en un gremio de aventureros, siendo a día de hoy el principal gremio en los reinos del norte."
+        "Fue uno de los primeros rostros amigables que nuestros héroes encontraron en Kar’Oyas. Lars regentaba la taberna a la que acudieron en busca de rumores y habladurías sobre Girk. Durante la primera investigación, en su local, Merino y Niels obtuvieron la pista de la cabaña donde Girk solía reunirse con Helga.",
+
+        "Más tarde, cuando los héroes regresaron a la taberna para interrogar de nuevo, Lars no supo dar detalles sobre el líder de los bandidos, aunque uno de sus camareros sí reveló información clave. En ese momento, y para subir los ánimos, los héroes pidieron salchichas y cervezas, dando lugar a la bebida que más adelante se conocería como la Trucha Ahogada.",
+
+        "En la última visita del grupo a Kar’Oyas, la taberna de Lars volvió a ser punto de reunión y celebración, pero también fue el lugar donde descubrieron la implicación de algunos habitantes en la conspiración del Clan Hella. Mientras Merino distraía a Lars con una historia para que el resto registrara la habitación de Thorgrim, el tabernero se reveló como fiel al Clan Hella y traidor a los Gark. Al descubrir que nuestros héroes estaban investigando quién se encontraba tras los ataques, Lars y otros leales los atacaron en la taberna.",
+
+        "Tras una cruenta batalla, Lars fue derrotado en combate y halló la muerte durante el asalto al castillo. Como parte de la recompensa, nuestros héroes obtuvieron la gestión de su taberna, a la que renombraron La Trucha Ahogada, convirtiéndola en un gremio de aventureros que, a día de hoy, es el principal gremio de los reinos del norte."
       ]
     },
     {
@@ -1252,6 +1254,81 @@
         "Estuvo todo el rato en la avanzadilla cerca de Rocamar, lugar donde el dragón había establecido su guarida. Ante las noticias de que los principales miembros del Culto habían ido al norte se dirigió allí también para atacar y fue una de las que llegó en auxilio de nuestros héroes.",
         "Durante el concilio contactó mentalmente con su hija Wipp y madre e hija se reunieron al fin."
       ]
+    },
+    {
+      "id": 33,
+      "title": "Eric, El Palo Mojado",
+      "race": "Humano",
+      "tags": ["njord", "sacristan", "sacristán", "palo", "mojado", "cumcha"],
+      "description": "Eric es un humano de aspecto descuidado pero resistente, con la piel curtida por la sal y el viento del mar. Suele vestir ropas remendadas de origen pirata, demasiado grandes para él, y siempre huele a madera húmeda y alcohol viejo. Su mirada, antes perdida, muestra ahora un orgullo torpe y una fe sencilla en Njord.",
+      "content": [
+        "Cuando Irn estaba dirigiendo el nuevo diseño del templo a Njord en Kar’Oyas, el que más tarde sería conocido cariñosamente como la Cumcha, se vio en la necesidad de encontrar un sacristán que cuidara del templo en su ausencia. Fue entonces cuando encontró a Eric, saliendo borracho de La Trucha Ahogada, y, con la intención de enmendar sus errores, lo nombró sacristán.",
+        "Eric asumió su nuevo cargo con honor y diligencia, convirtiendo la bodega-cripta en su hogar. Acompañó a Irn en la decisión de que la Cumcha albergara también iconos del resto de dioses del panteón, comenzando por Torm, como un gesto hacia su camarada Niels.",
+        "Sin embargo, su momento de gloria llegó cuando los héroes se embarcaron rumbo a la Isla de Tormentas sin darse cuenta de que Eric seguía durmiendo en la bodega-cripta. Al despertar, se encontró en alta mar, convertido sin saberlo en el primer tripulante de la Cumcha.",
+        "Luchó con valor contra los piratas que asolaban las islas, hazaña por la cual Merino lo bautizó con el sobrenombre de «El Palo Mojado» y lo presentó ante los habitantes de las islas como un auténtico héroe. Incluso el propio Eric terminó creyéndoselo y tomó ropas de los piratas caídos para confeccionar un nuevo atuendo que reflejara en quién se había convertido.",
+        "Actualmente, fiel a su labor como sacristán, custodia la Cumcha en el puerto de la Isla de Tormentas, junto a Fernando el Goblin."
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Kevlar",
+      "race": "Dracónido Azul",
+      "tags": [
+        "hermanos",
+        "bastardos",
+        "mafia",
+        "mafioso",
+        "dracónido",
+        "azul"
+      ],
+      "description": "Kevlar es un dracónido azul de gran tamaño, corpulento y de complexión poderosa, con escamas gruesas marcadas por múltiples cicatrices de viejas peleas. Sus hombros anchos y su postura firme delatan a alguien acostumbrado a la violencia y al respeto impuesto por la fuerza. Sus ojos, duros y atentos, observan siempre como los de un depredador que mide cada movimiento.",
+      "content": [
+        "Dracónido azul que intercedió para que a Irn no le linchasen un policía corrupto en la Aldea de Perlas. Le dijo que la isla no era segura para los dracónidos cromáticos y que si en algún momento necesitase su ayuda le buscase en el pueblo de Bruma Salada"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Fernando",
+      "race": "Goblin",
+      "tags": ["goblin", "sindicalista", "socialista", "camarero", "cumcha"],
+      "description": "Fernando es un goblin de baja estatura y complexión enjuta, con orejas grandes y expresivas y una mirada vivaz e inteligente. Suele vestir ropa de marinero gastada, siempre demasiado grande para su cuerpo, y gesticula mucho al hablar. Su apariencia inofensiva contrasta con la determinación que se adivina en su postura y en su voz.",
+      "content": [
+        "Fernando es un goblin sindicalista, socialista y antiguo pirata al que nuestros héroes conocieron durante su lucha contra los piratas que asolaban las islas cercanas a la Isla de Tormentas. Sus intentos de sindicalizar a la tripulación del capitán Tumbalobos provocaron que acabara en las mazmorras, condenado a servir la carnaza para el capitán.",
+        "Gracias a sus buenos modales, su gran oratoria y su disposición a ayudar al prójimo, entabló una sólida amistad con los héroes y los ayudó a pasar desapercibidos en la guarida de los piratas. Tras el combate, nuestros héroes decidieron contratarlo como nuevo camarero de La Trucha Ahogada, cubriendo así el último puesto que quedaba vacante.",
+        "Al llegar a la Isla de Tormentas, se quedó junto a Eric custodiando la Cumcha, pero cuando salió a buscar comida para ambos, desapareció sin dejar rastro. Desde entonces, se le considera en paradero desaparecido."
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Or'tacos!",
+      "race": "Orcos",
+      "tags": ["cocineros", "tacos", "mercaderes"],
+      "description": "Los miembros de Or’tacos! son orcos corpulentos y robustos, de piel curtida por el fuego y el trabajo constante junto a los fogones. Suelen vestir delantales manchados de grasa sobre armaduras ligeras o ropas de viaje, y siempre desprenden un intenso aroma a especias. Sus colmillos prominentes y sus manos callosas contrastan con sus sonrisas francas y hospitalarias.",
+      "content": [
+        "Nuestros héroes conocieron en la Isla de Tormentas a un grupo de orcos cocineros que regentaban una tienda portátil de venta de tacos picantes. Su comida causó tan buena impresión que los invitaron a viajar a Kar’Oyas una vez concluyeran los festejos del Día del Fundador. En señal de agradecimiento, los orcos obsequiaron a los héroes con un par de botellas de su famosa salsa picante."
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Balassar",
+      "race": "Dracónido rojo",
+      "tags": ["Ashardalon", "dracónido", "rojo"],
+      "description": "Balassar se presenta como un dracónido rojo de porte imponente, con escamas oscuras y pulidas que reflejan el fuego latente bajo su piel. Su mirada, sorprendentemente serena y casi afable, contrasta con su poderosa musculatura y su presencia intimidante. Incluso en reposo, su figura transmite una sensación de calor, peligro y una antigüedad que va más allá de lo mortal.",
+      "content": [
+        "Balassar es un dracónido rojo de ojos amables al que Irn conoció tras los enfrentamientos entre el Clan Gark y el Clan Hella, en los que nuestros héroes tomaron parte activa. Según comentó, había oído que un dracónido azul había reinstaurado la fe en Njord en Kar’Oyas y levantado un templo en su honor. Balassar agradeció a Irn su labor y recalcó la importancia de Njord para la gente de la región.",
+
+        "Más adelante, mientras los héroes trataban de dar con la receta de la salchicha perfecta, fue Balassar quien habló en nombre de Irn durante el juicio de Runeheim, destacando su condición de héroe y el potente simbolismo que suponía que un dracónido azul fuera clérigo de Njord en la zona, algo que Irn no llegó a comprender del todo.",
+
+        "Sin embargo, Balassar era mucho más de lo que aparentaba. Mientras los héroes buscaban a Tintinera, secuestrada por bandidos, descubrieron que Balassar estaba detrás de los acontecimientos. Intentó atraer a Irn a su bando y, cuando este le pidió que demostrara su deseo de evitar la violencia despojándose de su espadón de fuego, Balassar accedió, permitiendo que Niels se hiciera con el arma. Entonces se reveló su verdadera naturaleza: Balassar era en realidad Ashardalon, un dragón rojo renacido, el mismo que había destruido Rocamar cien años atrás. Durante el combate acudieron numerosos aliados de los héroes —Bastian y Gillian, Lilly Cordiplata, Darius el Manonegra, el Clarividente, Gruntz y otros— y, entre todos, lograron plantar cara al dragón, que finalmente huyó volando hacia el norte."
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Ashardalon, la Calamidad Roja",
+      "race": "Dragón rojo",
+      "tags": ["Ashardalon", "dragón", "Balassar"],
+      "description": "",
+      "content": []
     }
   ],
   "LUGARES": [
